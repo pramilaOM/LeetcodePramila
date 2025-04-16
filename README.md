@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0128-longest-consecutive-sequence) |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
