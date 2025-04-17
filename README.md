@@ -17,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
@@ -63,10 +64,12 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 ## Simulation
 |  |
