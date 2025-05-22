@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
