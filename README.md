@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
@@ -53,6 +55,7 @@
 | ------- |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
