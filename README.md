@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -88,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
@@ -122,4 +124,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
