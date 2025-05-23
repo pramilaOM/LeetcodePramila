@@ -1,5 +1,5 @@
 class Solution {
-            public static void rotate(int[][] matrix) {
+    public static void rotate(int[][] matrix) {
 
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix.length; j++) {
@@ -13,22 +13,8 @@ class Solution {
         for (int[] i : matrix) {
             reverse(i);
         }
-        printMatrix(matrix);
 
-    }
 
-    private static void printMatrix(int[][] matrix) {
-        // TODO Auto-generated method stub
-        System.out.print('[');
-        for (int i = 0; i < matrix.length; i++) {
-
-            System.out.print(Arrays.toString(matrix[i]));
-            if (i < matrix.length - 1) {
-                System.out.print(",");
-            }
-
-        }
-        System.out.print(']');
     }
 
     private static void reverse(int[] matrix) {
@@ -43,5 +29,5 @@ class Solution {
         }
 
     }
-        
-    }
+
+}
