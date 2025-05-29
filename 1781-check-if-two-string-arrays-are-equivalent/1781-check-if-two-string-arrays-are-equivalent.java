@@ -9,9 +9,7 @@ class Solution {
         for (String second : word2) {
             s2 += second;
         }
-        if (s1.equals(s2)) {
-            return true;
-        }
-        return false;
+        
+        return s1.equals(s2);
     }
 }
