@@ -36,6 +36,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
@@ -131,6 +132,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
