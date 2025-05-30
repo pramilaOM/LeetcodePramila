@@ -1,30 +1,17 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
 
-        return check(word, 'A', 'Z') || check(word, 'a', 'z')
-                || (word.length() > 1 && check(word.substring(1), 'a', 'z'));
+        int uppercount = 0;
 
-    }
-
-    public static boolean check(String word, char start, char end) {
         for (char c : word.toCharArray()) {
-            if (c < start || c > end) {
-                return false;
+            if (Character.isUpperCase(c)) {
+                uppercount++;
             }
-
         }
-        return true;
+
+        return uppercount == word.length() || uppercount == 0
+                || (uppercount == 1 && Character.isUpperCase(word.charAt(0)));
 
     }
 
-    public static boolean allSmall(String word) {
-        for (char c : word.toCharArray()) {
-            if (c < 'a' || c > 'z') {
-                return false;
-            }
-
-        }
-        return true;
-
-    }
 }
