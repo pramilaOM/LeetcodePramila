@@ -9,21 +9,27 @@
  * }
  */
 class Solution {
-    List<Integer> values = new ArrayList<>();
-    Random ram = new Random();
+    ListNode head;
+    Random ram;
 
     public Solution(ListNode head) {
-        while (head != null) {
-            values.add(head.val);
-            head = head.next;
-        }
+        this.head = head;
+        this.ram = new Random();
 
     }
 
     public int getRandom() {
-        int len = values.size();
-        int index = ram.nextInt(len);
-        return values.get(index);
+        ListNode curr = head;
+        int result = curr.val;
+        int i = 1;
+        while (curr != null) {
+            if (ram.nextInt(i) == 0) {
+                result = curr.val;
+            }
+            curr = curr.next;
+            i++;
+        }
+        return result;
 
     }
 }
