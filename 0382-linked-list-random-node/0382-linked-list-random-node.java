@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ //Reservoir Sampling approach
 class Solution {
     ListNode head;
     Random ram;
