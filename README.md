@@ -135,6 +135,7 @@
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
+| [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 ## String
@@ -248,6 +249,15 @@
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
