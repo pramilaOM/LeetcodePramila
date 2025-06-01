@@ -142,6 +142,7 @@
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 ## String
@@ -206,6 +207,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -260,6 +262,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
