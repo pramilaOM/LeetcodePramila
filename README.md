@@ -251,6 +251,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
@@ -285,4 +286,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
