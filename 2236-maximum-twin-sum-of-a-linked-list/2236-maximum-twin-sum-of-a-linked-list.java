@@ -10,24 +10,27 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer> data = new ArrayList<>();
+        Stack<Integer> value = new Stack<>();
+        ListNode curr = head;
 
-        while (head != null) {
-            data.add(head.val);
-            head = head.next;
-        }
-        int i = 0;
-        int j = data.size() - 1;
-        int max = 0;
-        while (i < j) {
-            if (max < data.get(i) + data.get(j)) {
-                max = data.get(i) + data.get(j);
-            }
-            i++;
-            j--;
+        while (curr != null) {
+            value.push(curr.val);
+            curr = curr.next;
+
         }
 
-        return max;
+        int n = value.size();
+        int count = 1;
+        curr = head;
+        int result = 0;
+        while (count <= n / 2) {
+            result = Math.max(result, curr.val + value.peek());
+            curr = curr.next;
+            value.pop();
+            count++;
+        }
+
+        return result;
 
     }
 }
