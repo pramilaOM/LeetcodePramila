@@ -10,24 +10,32 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        Stack<Integer> value = new Stack<>();
-        ListNode curr = head;
 
-        while (curr != null) {
-            value.push(curr.val);
-            curr = curr.next;
+        ListNode slow = head;
+        ListNode fast = head;
 
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int n = value.size();
-        int count = 1;
-        curr = head;
+        ListNode mid = slow;
+        ListNode prev = null;
+        ListNode nextNode = null;
+        while (mid != null) {
+            nextNode = mid.next;
+            mid.next = prev;
+            prev = mid;
+            mid = nextNode;
+        }
+
         int result = 0;
-        while (count <= n / 2) {
-            result = Math.max(result, curr.val + value.peek());
+        ListNode curr = head;
+
+        while (prev != null) {
+            result = Math.max(result, curr.val + prev.val);
             curr = curr.next;
-            value.pop();
-            count++;
+            prev = prev.next;
         }
 
         return result;
