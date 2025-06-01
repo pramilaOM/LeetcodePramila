@@ -56,6 +56,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
@@ -256,6 +257,7 @@
 | [0328-odd-even-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
