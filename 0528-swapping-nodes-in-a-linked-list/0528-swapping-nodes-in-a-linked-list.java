@@ -11,35 +11,27 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
 
-                    int size = findSize(head);
-            int k1 = k;
-            ListNode node1 = head;
-            while (k1 > 1) {
-                node1 = node1.next;
-                k1--;
-            }
-
-            int k2 = size - k + 1;
-            ListNode node2 = head;
-            while (k2 > 1) {
+        ListNode node1 = null;
+        ListNode node2 = null;
+        ListNode temp = head;
+        while (temp != null) {
+            k--;
+            if (node2 != null) {
                 node2 = node2.next;
-                k2--;
             }
 
-            int temp = node1.val;
-            node1.val = node2.val;
-            node2.val = temp;
-            return head;
-        
-    }
-    public static int findSize(ListNode head) {
-            int count = 0;
-            while (head != null) {
-                count++;
-                head = head.next;
+            if (k == 0) {
+                node1 = temp;
+                node2 = head;
             }
-
-            return count;
-
+            temp = temp.next;
         }
+
+        int swap = node1.val;
+        node1.val = node2.val;
+        node2.val = swap;
+        return head;
+
+    }
+
 }
