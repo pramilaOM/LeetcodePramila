@@ -19,37 +19,37 @@ class Solution {
         if (head == null) {
             return head;
         }
-        Map<Node, Node> data = new HashMap<>();
         Node current = head;
-        Node newHead = null;
-        Node prev = null;
 
         while (current != null) {
-            Node temp = new Node(current.val);
-            data.put(current, temp);
-            if (newHead == null) {
-                newHead = temp;
-                prev = newHead;
-            } else {
-                prev.next = temp;
-                prev = temp;
-            }
-            current = current.next;
+            Node currNext = current.next;
+            current.next = new Node(current.val);
+            current.next.next = currNext;
+            current = currNext;
         }
-        // for random pointer
         current = head;
-        Node newCurr = newHead;
-        while (current != null) {
-
+        while (current != null && current.next != null) {
             if (current.random == null) {
-                newCurr.random = null;
+                current.next.random = null;
             } else {
-                newCurr.random = data.get(current.random);
+                current.next.random = current.random.next;
             }
-            newCurr = newCurr.next;
-            current = current.next;
+            current = current.next.next;
         }
 
+        Node newHead = head.next;
+        Node newCurr = newHead;
+
+        current = head;
+
+        while (current != null && newCurr != null) {
+            current.next = (current.next != null) ? current.next.next : null;
+            newCurr.next = (newCurr.next != null) ? newCurr.next.next : null;
+
+            current = current.next;
+            newCurr = newCurr.next;
+
+        }
         return newHead;
 
     }
