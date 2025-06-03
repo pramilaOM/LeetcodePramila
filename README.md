@@ -160,6 +160,7 @@
 | [0038-count-and-say](https://github.com/pramilaOM/LeetcodePramila/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
