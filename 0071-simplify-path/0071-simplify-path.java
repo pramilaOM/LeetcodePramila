@@ -1,20 +1,20 @@
 class Solution {
     public String simplifyPath(String path) {
 
-        Stack<String> stack = new Stack<>();
+        List<String> stack = new ArrayList<>();
 
         String[] tokens = path.split("/");
 
         for (String token : tokens) {
             if (token.equals("..")) {
                 if (!stack.isEmpty()) {
-                    stack.pop();
+                    stack.remove(stack.size()-1);
                 }
 
             } else if (token.equals("") || token.equals(".")) {
                 continue;
             } else {
-                stack.push(token);
+                stack.add(token);
             }
         }
 
