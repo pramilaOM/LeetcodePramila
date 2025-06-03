@@ -14,12 +14,7 @@ class Solution {
             }
         }
 
-        StringBuilder result = new StringBuilder();
-        for (int k = 0; k <= j - 1; k++) {
-            result.append(temp[k]);
-        }
-
-        return result.toString();
+        return new String(temp, 0, j);
 
     }
 }
