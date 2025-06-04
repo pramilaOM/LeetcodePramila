@@ -51,6 +51,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
+| [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 ## Hash Table
@@ -74,6 +75,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
+| [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -271,6 +274,7 @@
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
