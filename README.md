@@ -99,6 +99,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
 | ------- |
