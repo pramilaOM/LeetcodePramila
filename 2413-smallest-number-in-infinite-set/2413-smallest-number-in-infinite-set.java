@@ -5,26 +5,26 @@ class SmallestInfiniteSet {
 
     public SmallestInfiniteSet() {
         nums = new boolean[1001];
-        Arrays.fill(nums,true);
+        Arrays.fill(nums, true);
         i = 1;
     }
-    
+
     public int popSmallest() {
         int result = i;
         nums[i] = false;
 
-        for(int j = i+1;j< 1001;j++){
-            if(nums[j]){
-                i =j;
+        for (int j = i + 1; j < 1001; j++) {
+            if (nums[j]) {
+                i = j;
                 break;
             }
         }
         return result;
     }
-    
+
     public void addBack(int num) {
         nums[num] = true;
-        if(num < i){
+        if (num < i) {
             i = num;
         }
     }
