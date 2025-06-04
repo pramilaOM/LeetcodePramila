@@ -1,23 +1,20 @@
 class SmallestInfiniteSet {
 
     private int currSmallest;
-    private Set<Integer> set;
-    private PriorityQueue<Integer> minHeap;
-
+    private TreeSet<Integer> set;
 
     public SmallestInfiniteSet() {
+        set = new TreeSet<>();
         currSmallest = 1;
-        set = new HashSet<>();
-        minHeap = new PriorityQueue<>();
     }
 
     public int popSmallest() {
         int result;
 
-        if(!minHeap.isEmpty()){
-            result = minHeap.poll();
+        if (!set.isEmpty()) {
+            result = set.first();
             set.remove(result);
-        }else{
+        } else {
             result = currSmallest;
             currSmallest++;
         }
@@ -26,11 +23,10 @@ class SmallestInfiniteSet {
     }
 
     public void addBack(int num) {
-        if(num >= currSmallest || set.contains(num)){
+        if (num >= currSmallest || set.contains(num)) {
             return;
         }
         set.add(num);
-        minHeap.offer(num);
     }
 }
 
