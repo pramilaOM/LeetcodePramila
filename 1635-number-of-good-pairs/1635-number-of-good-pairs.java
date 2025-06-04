@@ -3,11 +3,8 @@ class Solution {
         int result = 0;
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
+            result += map.getOrDefault(num, 0);
             map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-
-        for (int count : map.values()) {
-            result += (count * (count - 1)) / 2;
         }
         return result;
 
