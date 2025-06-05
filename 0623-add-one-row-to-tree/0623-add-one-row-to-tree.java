@@ -1,52 +1,45 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-
-    public TreeNode add(TreeNode root, int val, int depth,int curr) {
-        if(root == null){
-            return null;
-        }
-
-        if(curr == depth-1){
-            TreeNode LTemp = root.left;
-            TreeNode RTemp = root.right;
-
-            root.left = new TreeNode(val);
-            root.right = new TreeNode(val);
-            root.left.left = LTemp;
-            root.right.right = RTemp;
-
-            return root;
-        }
-     root.left = add(root.left, val, depth,curr + 1);
-     root.right = add(root.right, val, depth,curr + 1);
-
-     return root;
-
-    }
-
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
-
         if (depth == 1) {
             TreeNode newRoot = new TreeNode(val);
             newRoot.left = root;
             return newRoot;
         }
 
-        return add(root, val, depth, 1);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        int level = 1;
 
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+
+            if (level == depth - 1) {
+                for (int i = 0; i < size; i++) {
+                    TreeNode curr = queue.poll();
+
+                    TreeNode originalLeft = curr.left;
+                    TreeNode originalRight = curr.right;
+
+                    curr.left = new TreeNode(val);
+                    curr.left.left = originalLeft;
+
+                    curr.right = new TreeNode(val);
+                    curr.right.right = originalRight;
+                }
+                break;
+            }
+
+            for (int i = 0; i < size; i++) {
+                TreeNode curr = queue.poll();
+                if (curr.left != null)
+                    queue.add(curr.left);
+                if (curr.right != null)
+                    queue.add(curr.right);
+            }
+
+            level++;
+        }
+
+        return root;
     }
 }
