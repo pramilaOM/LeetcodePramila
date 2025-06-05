@@ -340,6 +340,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 ## Merge Sort
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -380,4 +383,8 @@
 | ------- |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
