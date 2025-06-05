@@ -44,6 +44,7 @@
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1319-unique-number-of-occurrences](https://github.com/pramilaOM/LeetcodePramila/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -73,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/pramilaOM/LeetcodePramila/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -349,6 +351,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 ## Merge Sort
 |  |
 | ------- |
@@ -400,4 +404,5 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
