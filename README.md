@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/pramilaOM/LeetcodePramila/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
