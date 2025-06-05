@@ -15,29 +15,34 @@
  */
 class Solution {
     private int idx = 0;
+    private HashMap<Integer, Integer> inorderMap = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        idx = 0;
+        inorderMap.clear();
 
-        return solve(preorder, inorder, 0, inorder.length - 1);
+        for (int i = 0; i < inorder.length; i++) {
+            inorderMap.put(inorder[i], i);
+        }
+
+        return construct(preorder, 0, inorder.length - 1);
 
     }
 
-    private TreeNode solve(int[] preorder, int[] inorder, int start, int end) {
-        if (start > end) {
+    private TreeNode construct(int[] preorder, int left, int right) {
+        if (left > right) {
             return null;
         }
+
         int rootVal = preorder[idx++];
         TreeNode root = new TreeNode(rootVal);
 
-        int i = start;
-        while (i <= end && inorder[i] != rootVal) {
-            i++;
-        }
+        int inorderIndex = inorderMap.get(rootVal);
 
-        root.left = solve(preorder, inorder, start, i - 1);
-        root.right = solve(preorder, inorder, i + 1, end);
+        root.left = construct(preorder, left, inorderIndex - 1);
+        root.right = construct(preorder, inorderIndex + 1, right);
 
         return root;
-
     }
+
 }
