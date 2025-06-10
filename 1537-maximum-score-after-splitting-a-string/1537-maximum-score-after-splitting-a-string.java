@@ -9,7 +9,7 @@ class Solution {
         int left = 0;
         int right = totalOne;
         int max = Integer.MIN_VALUE;
-        for (int i = 0; i < s.length()-1; i++) {
+        for (int i = 0; i < s.length()-1; i++) {// s.length-1 and not s.length Split the string into two non-empty substrings → So the split point must be before the last character, i.e., i < s.length() - 1
             if (s.charAt(i) == '0') {
                 left++;
             } else {
