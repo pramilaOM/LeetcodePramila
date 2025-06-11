@@ -7,7 +7,6 @@ class Solution {
             prefix[i] = arr[i-1] + prefix[i-1];
         }
         for (int i = 0; i < arr.length; i++) {
-            int subarray = 0;
             int arrSum = 0;
             for (int j = i; j < arr.length; j+=2) {
                 arrSum += (prefix[j+1] - prefix[i]);
