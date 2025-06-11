@@ -54,6 +54,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
@@ -191,6 +192,7 @@
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
 ## String
 |  |
@@ -266,6 +268,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1603-running-sum-of-1d-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
