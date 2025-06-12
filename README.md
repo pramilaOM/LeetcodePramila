@@ -63,6 +63,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
+| [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -277,6 +278,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
