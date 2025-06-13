@@ -82,6 +82,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
@@ -143,6 +144,7 @@
 | [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
@@ -214,6 +216,7 @@
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
