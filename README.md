@@ -222,6 +222,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/pramilaOM/LeetcodePramila/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pramilaOM/LeetcodePramila/tree/master/0038-count-and-say) |
