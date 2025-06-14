@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/pramilaOM/LeetcodePramila/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +151,7 @@
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
@@ -374,6 +376,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 ## Linked List
 |  |
