@@ -1,22 +1,27 @@
 class Solution {
     public int hIndex(int[] citations) {
-        int hindex = 0;
-        Arrays.sort(citations);
-        List<Integer> list = new ArrayList<>();
-        for (int n : citations) {
-            list.add(n);
-        }
-        Collections.reverse(list);
-        for (int i = 0; i < list.size(); i++) {
-            if (list.get(i) >= i + 1) {
-                hindex++;
+        int n = citations.length;
+        int[] count = new int[n + 1];
+
+        // Step 1: Count the citations
+        for (int c : citations) {
+            if (c >= n) {
+                count[n]++;
             } else {
-                break;
+                count[c]++;
             }
-
         }
 
-        return hindex;
+        // Step 2: Go backward to find max h such that total >= h
+        int total = 0;
+        for (int i = n; i >= 0; i--) {
+            total += count[i];
+            if (total >= i) {
+                return i;
+            }
+        }
+
+        return 0;
 
     }
 }
