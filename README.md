@@ -35,6 +35,7 @@
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
@@ -91,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
@@ -206,6 +208,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
@@ -365,6 +368,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -410,6 +414,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 ## Tree
 |  |
