@@ -39,6 +39,7 @@
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/pramilaOM/LeetcodePramila/tree/master/0735-asteroid-collision) |
@@ -295,6 +296,7 @@
 | [0135-candy](https://github.com/pramilaOM/LeetcodePramila/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
