@@ -131,6 +131,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
@@ -235,6 +236,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
@@ -274,6 +276,7 @@
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
