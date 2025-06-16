@@ -64,6 +64,7 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
@@ -106,6 +107,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
@@ -141,6 +143,7 @@
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/pramilaOM/LeetcodePramila/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -173,6 +176,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
