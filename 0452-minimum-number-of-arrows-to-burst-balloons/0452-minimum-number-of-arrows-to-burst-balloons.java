@@ -7,21 +7,21 @@ class Solution {
         balloons[0] = points[0];
         int balloonIndex = 0;
 
-        for(int i = 1;i<n;i++){
+        for (int i = 1; i < n; i++) {
             int currStartPoint = points[i][0];
             int currEndPoint = points[i][1];
 
             int prevStartPoint = balloons[balloonIndex][0];
             int prevEndPoint = balloons[balloonIndex][1];
 
-            if(currStartPoint > prevEndPoint){
+            if (currStartPoint > prevEndPoint) {
                 balloons[++balloonIndex] = points[i];
-            }else{
-                 balloons[balloonIndex][0]= Math.max(prevStartPoint,currStartPoint);
-                 balloons[balloonIndex][1]=Math.min(prevEndPoint,currEndPoint);
+            } else {
+                balloons[balloonIndex][0] = Math.max(prevStartPoint, currStartPoint);
+                balloons[balloonIndex][1] = Math.min(prevEndPoint, currEndPoint);
             }
         }
-        return balloonIndex+1;
-        
+        return balloonIndex + 1;
+
     }
 }
