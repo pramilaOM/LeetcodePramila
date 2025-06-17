@@ -135,6 +135,7 @@
 | [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0086-partition-list) |
@@ -431,6 +432,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
