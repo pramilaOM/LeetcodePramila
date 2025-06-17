@@ -99,6 +99,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
@@ -404,6 +405,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
@@ -435,6 +437,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0328-odd-even-linked-list) |
@@ -550,4 +553,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/pramilaOM/LeetcodePramila/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
