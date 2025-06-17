@@ -359,6 +359,7 @@
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
@@ -403,6 +404,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
