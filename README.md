@@ -18,6 +18,7 @@
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pramilaOM/LeetcodePramila/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pramilaOM/LeetcodePramila/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
@@ -312,6 +313,7 @@
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
@@ -406,6 +408,7 @@
 | [0036-valid-sudoku](https://github.com/pramilaOM/LeetcodePramila/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/pramilaOM/LeetcodePramila/tree/master/0289-game-of-life) |
