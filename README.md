@@ -82,6 +82,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -195,6 +196,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pramilaOM/LeetcodePramila/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
 |  |
