@@ -477,6 +477,7 @@
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
@@ -499,6 +500,7 @@
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
@@ -534,6 +536,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -554,6 +557,7 @@
 | [0112-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0386-lexicographical-numbers) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
