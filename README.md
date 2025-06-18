@@ -33,6 +33,7 @@
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/pramilaOM/LeetcodePramila/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
@@ -311,6 +312,7 @@
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
@@ -403,6 +405,7 @@
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/pramilaOM/LeetcodePramila/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
