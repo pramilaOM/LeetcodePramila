@@ -138,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pramilaOM/LeetcodePramila/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pramilaOM/LeetcodePramila/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
@@ -311,6 +313,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
