@@ -1,33 +1,30 @@
 class Solution {
 
-    int solve(String word1, String word2, int m, int n,int[][] t) {
-        if (m == 0 || n == 0) {
-            return t[m][n] = m + n;
-        }
-        if (t[m][n] != -1) {
-            return t[m][n];
-        }
+    int solve(String word1, String word2, int m, int n) {
+        int[][] t = new int[m + 1][n + 1];
 
-        if (word1.charAt(m - 1) == word2.charAt(n - 1)) {
-            return t[m][n] = solve(word1, word2, m - 1, n - 1,t);
-        } else {
-            int insert = 1 + solve(word1, word2, m, n - 1,t);
-            int delete = 1 + solve(word1, word2, m - 1, n,t);
-            int replace = 1 + solve(word1, word2, m - 1, n - 1,t);
+        for (int i = 0; i < m+1; i++) {
+            for (int j = 0; j < n+1; j++) {
+                if (i == 0 || j == 0) {
+                    t[i][j] = i + j;
+                } else if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    t[i][j] = t[i - 1][j - 1];
+                } else {
+                    t[i][j] = 1 + Math.min(Math.min(t[i][j - 1], t[i - 1][j]), t[i - 1][j - 1]);
+                    ;
+                }
 
-            return t[m][n] = Math.min(Math.min(insert, delete), replace);
+            }
         }
+        return t[m][n];
 
     }
 
     public int minDistance(String word1, String word2) {
         int m = word1.length();
         int n = word2.length();
-        int[][] t = new int[m+1][n+1];
-        for (int[] pok : t) {
-            Arrays.fill(pok, -1);
-        }
-        return solve(word1, word2, m, n, t);
+
+        return solve(word1, word2, m, n);
 
     }
 }
