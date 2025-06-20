@@ -1,21 +1,34 @@
 class Solution {
-    public int lengthOfLIS(int[] nums) {
+    int n;
+    int[][] t;
 
-        int n = nums.length;
-        int[] t = new int[n];
-        Arrays.fill(t,1);
+    int lis(int[] nums, int p, int c) {
+        if (c == n)
+            return 0;
 
-        int max = 1;
+        if (p != -1 && t[p][c] != -1)
+            return t[p][c];
 
-        for(int i =1;i<n;i++){
-            for(int j = 0;j<i;j++){
-                if(nums[j] < nums[i]){
-                    t[i] = Math.max(t[i],t[j]+1);
-                    max = Math.max(max,t[i]);
-                }
-            }
+        int taken = 0;
+        if (p == -1 || nums[c] > nums[p]) {
+            taken = 1 + lis(nums, c, c + 1);
         }
-        return max;
-        
+
+        int notTaken = lis(nums, p, c + 1);
+
+        if (p != -1) {
+            t[p][c] = Math.max(taken, notTaken);
+        }
+
+        return Math.max(taken, notTaken);
+    }
+
+    public int lengthOfLIS(int[] nums) {
+        t = new int[2501][2501];
+        for (int[] row : t) {
+            Arrays.fill(row, -1);
+        }
+        n = nums.length;
+        return lis(nums, -1, 0);
     }
 }
