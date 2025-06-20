@@ -257,6 +257,7 @@
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pramilaOM/LeetcodePramila/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pramilaOM/LeetcodePramila/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -286,6 +287,7 @@
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pramilaOM/LeetcodePramila/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pramilaOM/LeetcodePramila/tree/master/0072-edit-distance) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/pramilaOM/LeetcodePramila/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
@@ -458,6 +461,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 ## Design
