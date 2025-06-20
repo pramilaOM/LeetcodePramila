@@ -20,6 +20,7 @@
 | [0057-insert-interval](https://github.com/pramilaOM/LeetcodePramila/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
@@ -253,6 +254,7 @@
 | [0009-palindrome-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
