@@ -244,6 +244,7 @@
 | [0002-add-two-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
@@ -323,6 +324,7 @@
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pramilaOM/LeetcodePramila/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0120-triangle) |
@@ -614,4 +616,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
