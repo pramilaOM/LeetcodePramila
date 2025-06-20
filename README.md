@@ -180,6 +180,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pramilaOM/LeetcodePramila/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
@@ -255,6 +256,7 @@
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/pramilaOM/LeetcodePramila/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0172-factorial-trailing-zeroes) |
