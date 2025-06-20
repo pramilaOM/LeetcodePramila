@@ -222,6 +222,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -462,6 +463,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 ## Design
