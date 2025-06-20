@@ -424,6 +424,7 @@
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
@@ -513,6 +514,7 @@
 | [0086-partition-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
@@ -549,6 +551,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
@@ -575,6 +578,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
@@ -639,6 +643,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
