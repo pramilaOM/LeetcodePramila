@@ -8,7 +8,7 @@ class Solution {
         while (i >= 0 || j >= 0 || carry == 1) {
             int sum = carry;
             if (i >= 0) {
-                sum =sum+ a.charAt(i) - '0';
+                sum += a.charAt(i) - '0';
                 i--;
             }
 
