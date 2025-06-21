@@ -566,6 +566,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -577,6 +578,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,6 +603,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -644,6 +647,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
@@ -673,6 +677,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
