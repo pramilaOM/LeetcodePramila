@@ -562,6 +562,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
@@ -577,6 +578,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -599,6 +601,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
@@ -672,6 +675,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
