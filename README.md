@@ -129,6 +129,7 @@
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
+| [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
@@ -317,6 +318,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
@@ -669,6 +671,7 @@
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/pramilaOM/LeetcodePramila/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
