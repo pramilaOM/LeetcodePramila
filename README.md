@@ -69,6 +69,7 @@
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
@@ -480,6 +481,7 @@
 | [0463-island-perimeter](https://github.com/pramilaOM/LeetcodePramila/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
+| [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -672,6 +674,7 @@
 | [0623-add-one-row-to-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
