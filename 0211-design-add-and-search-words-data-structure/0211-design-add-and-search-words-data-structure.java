@@ -39,24 +39,22 @@ class WordDictionary {
         for (int i = 0; i < word.length(); i++) {
 
             char ch = word.charAt(i);
-            if(ch =='.'){
-                for(int j = 0;j<26;j++){
+            if (ch == '.') {
+                for (int j = 0; j < 26; j++) {
                     if (crawler.children[j] != null) {
-                 if(searchUtil(crawler.children[j], word.substring(i+1))){
-                    return true;
-                 }
-            }
+                        if (searchUtil(crawler.children[j], word.substring(i + 1))) {
+                            return true;
+                        }
+                    }
                 }
                 return false;
+            } else {
+                if (crawler.children[ch - 'a'] == null) {
+                    return false;
+                }
+
+                crawler = crawler.children[ch - 'a'];
             }
-            else{
-if (crawler.children[ch -'a'] == null) {
-                return false;
-            }
-            
-            
-            crawler = crawler.children[ch-'a'];
-        }
         }
         return crawler != null && crawler.isEndOfWord;
     }
