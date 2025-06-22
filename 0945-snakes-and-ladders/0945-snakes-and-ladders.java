@@ -13,7 +13,7 @@ class Solution {
 
     public int snakesAndLadders(int[][] board) {
 
-         n = board.length;
+        n = board.length;
         boolean[][] visited = new boolean[n][n];
         Queue<Integer> queue = new LinkedList<>();
 
