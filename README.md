@@ -313,6 +313,7 @@
 | [0097-interleaving-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
@@ -505,6 +506,7 @@
 | [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
@@ -706,6 +708,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pramilaOM/LeetcodePramila/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -728,6 +731,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/pramilaOM/LeetcodePramila/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
