@@ -25,6 +25,7 @@
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -312,6 +313,7 @@
 | [0068-text-justification](https://github.com/pramilaOM/LeetcodePramila/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/pramilaOM/LeetcodePramila/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
@@ -480,6 +482,7 @@
 | [0063-unique-paths-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/pramilaOM/LeetcodePramila/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
@@ -699,6 +702,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -731,6 +735,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 ## Trie
 |  |
