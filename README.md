@@ -185,6 +185,7 @@
 | [0086-partition-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
@@ -226,6 +227,7 @@
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pramilaOM/LeetcodePramila/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +256,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
@@ -572,6 +575,7 @@
 | [0141-linked-list-cycle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0328-odd-even-linked-list) |
@@ -666,6 +670,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
