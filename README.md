@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pramilaOM/LeetcodePramila/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/pramilaOM/LeetcodePramila/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/pramilaOM/LeetcodePramila/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
@@ -197,6 +198,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pramilaOM/LeetcodePramila/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pramilaOM/LeetcodePramila/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0209-minimum-size-subarray-sum) |
