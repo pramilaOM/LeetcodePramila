@@ -305,6 +305,7 @@
 | [0006-zigzag-conversion](https://github.com/pramilaOM/LeetcodePramila/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/pramilaOM/LeetcodePramila/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0067-add-binary) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
@@ -727,6 +729,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 ## Trie
