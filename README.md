@@ -199,6 +199,7 @@
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
@@ -240,6 +241,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pramilaOM/LeetcodePramila/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
@@ -565,6 +568,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
@@ -572,6 +576,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
