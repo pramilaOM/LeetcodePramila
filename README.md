@@ -415,6 +415,7 @@
 | [0097-interleaving-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/pramilaOM/LeetcodePramila/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
@@ -631,6 +632,7 @@
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
@@ -671,6 +673,7 @@
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
@@ -760,6 +763,7 @@
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/pramilaOM/LeetcodePramila/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pramilaOM/LeetcodePramila/tree/master/0199-binary-tree-right-side-view) |
