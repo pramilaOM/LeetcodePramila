@@ -12,8 +12,6 @@ class Solution {
         for (String w : words) {
             wordMap.put(w, wordMap.getOrDefault(w, 0) + 1);
         }
-
-        // Check each offset within wordLen
         for (int i = 0; i < wordLen; i++) {
             int left = i;
             int right = i;
@@ -27,21 +25,16 @@ class Solution {
                 if (wordMap.containsKey(word)) {
                     windowMap.put(word, windowMap.getOrDefault(word, 0) + 1);
                     count++;
-
-                    // Shrink window if word is overused
                     while (windowMap.get(word) > wordMap.get(word)) {
                         String leftWord = s.substring(left, left + wordLen);
                         windowMap.put(leftWord, windowMap.get(leftWord) - 1);
                         left += wordLen;
                         count--;
                     }
-
-                    // If all words matched
                     if (count == words.length) {
                         ans.add(left);
                     }
                 } else {
-                    // Reset window
                     windowMap.clear();
                     count = 0;
                     left = right;
