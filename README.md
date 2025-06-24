@@ -810,6 +810,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0212-word-search-ii) |
