@@ -71,6 +71,7 @@
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/pramilaOM/LeetcodePramila/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/pramilaOM/LeetcodePramila/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
@@ -244,6 +245,7 @@
 | [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pramilaOM/LeetcodePramila/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
@@ -283,6 +285,7 @@
 | [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -447,6 +450,7 @@
 | [0135-candy](https://github.com/pramilaOM/LeetcodePramila/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pramilaOM/LeetcodePramila/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
