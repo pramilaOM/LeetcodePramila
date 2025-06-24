@@ -315,6 +315,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
@@ -352,6 +353,7 @@
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pramilaOM/LeetcodePramila/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
@@ -488,6 +490,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pramilaOM/LeetcodePramila/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
@@ -696,6 +699,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/pramilaOM/LeetcodePramila/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 ## Combinatorics
 |  |
 | ------- |
