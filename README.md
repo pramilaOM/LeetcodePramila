@@ -112,6 +112,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -235,6 +236,7 @@
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
