@@ -9,7 +9,7 @@ class Solution {
         // Finally, join the parts with '/' and prefix with '/' to form the canonical path.
 
         String[] arr = path.split("/");
-        Stack<String> ans = new Stack<>();
+        List<String> ans = new ArrayList<>();
 
         for (String a : arr) {
             if (a.equals(".") || a.equals("")) {
