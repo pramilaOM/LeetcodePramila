@@ -1,29 +1,28 @@
 class Solution {
     public String simplifyPath(String path) {
+        //BF: Time Complexity: O(n) n = length of path,  Space Complexity: O(n) for storing path components in the list
 
-        List<String> stack = new ArrayList<>();
+        // .split("/") breaks the path at slashes, automatically handling //.
+        // "." is ignored as it means current directory.
+        // ".." removes the last valid directory from the list (goes up).
+        // Any other string is treated as a valid directory name (like "...").
+        // Finally, join the parts with '/' and prefix with '/' to form the canonical path.
 
-        String[] tokens = path.split("/");
+        String[] arr = path.split("/");
+        List<String> ans = new ArrayList<>();
 
-        for (String token : tokens) {
-            if (token.equals("..")) {
-                if (!stack.isEmpty()) {
-                    stack.remove(stack.size()-1);
-                }
-
-            } else if (token.equals("") || token.equals(".")) {
+        for (String a : arr) {
+            if (a.equals(".") || a.equals("")) {
                 continue;
+            } else if (a.equals("..")) {
+                if (!ans.isEmpty()) {
+                    ans.remove(ans.size() - 1);
+                }
             } else {
-                stack.add(token);
+                ans.add(a);
             }
         }
-
-        StringBuilder sb = new StringBuilder();
-        for (String str : stack) {
-            sb.append("/").append(str);
-        }
-
-        return sb.length() == 0 ? "/" : sb.toString();
+        return "/" + String.join("/", ans);
 
     }
 }
