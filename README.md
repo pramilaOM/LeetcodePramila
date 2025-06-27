@@ -313,6 +313,7 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/pramilaOM/LeetcodePramila/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -400,6 +401,7 @@
 | [1894-merge-strings-alternately](https://github.com/pramilaOM/LeetcodePramila/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -474,6 +476,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -746,6 +749,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -829,6 +833,7 @@
 | [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0212-word-search-ii) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Trie
 |  |
 | ------- |
