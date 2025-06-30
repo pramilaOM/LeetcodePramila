@@ -7,8 +7,8 @@ class Solution {
                 i++;
             }
         }
-        for (int no : nums) {
-            System.out.print(no);
+        for (int j = 0; j < i; j++) {
+            System.out.print(nums[j] + " ");
         }
         return i;
     }
