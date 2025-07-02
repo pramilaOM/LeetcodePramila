@@ -1,6 +1,10 @@
 class Solution {
     public int majorityElement(int[] nums) {
-
+// Optimized Approach — Boyer-Moore Voting Algorithm
+        // ⏱ Time Complexity:
+        // O(n) — single pass through the array
+        // \U0001f9e0 Space Complexity:
+        // O(1) — constant space (no extra structures used)
         int counter = 0;
         int candidate = -1;
 
