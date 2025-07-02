@@ -1,22 +1,19 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        //bf
-        // TC O(n) for building frequency map + O(n) for final scan → O(n) total
-        // SC O(n) for storing counts in a hash map or frequency structure
 
-        Map<Integer, Integer> freqMap = new HashMap<>();
-        for (int n : nums) {
-            freqMap.put(n, freqMap.getOrDefault(n, 0) + 1);
-        }
+        int counter = 0;
+        int candidate = -1;
 
-       for(Map.Entry<Integer,Integer> entry : freqMap.entrySet()){
-            if(entry.getValue() > nums.length/2){
-                return entry.getKey();
+        for (int i = 0; i < nums.length; i++) {
+            if (counter == 0) {
+                candidate = nums[i];
             }
-
-       } 
-
-       return -1; 
-
+            if (nums[i] == candidate) {
+                counter++;
+            } else {
+                counter--;
+            }
+        }
+        return candidate;
     }
 }
