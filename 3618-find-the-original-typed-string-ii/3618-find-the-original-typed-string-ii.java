@@ -1,4 +1,5 @@
 class Solution {
+    //copy pasting
      int M = (int)1e9 + 7;
     public int possibleStringCount(String word, int k) {
               if (k > word.length()) return 0;
