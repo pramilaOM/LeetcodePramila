@@ -52,6 +52,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pramilaOM/LeetcodePramila/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pramilaOM/LeetcodePramila/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/pramilaOM/LeetcodePramila/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
@@ -261,6 +263,7 @@
 | [0075-sort-colors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
@@ -297,6 +300,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
@@ -323,6 +327,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
