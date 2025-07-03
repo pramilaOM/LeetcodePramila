@@ -1,32 +1,18 @@
 class Solution {
-    int[] memo = new int[10001];
     public boolean canJump(int[] nums) {
-        Arrays.fill(memo,-1);//-1 unvisited , 1 visited 
+        //top down
         int len = nums.length;
-        return solve(nums, len, 0);
-
-    }
-
-    private boolean solve(int[] nums, int len, int index) {
-
-        if (index == len - 1) {
-            return true;
-        }
-        if (nums[index] == 0) {
-            return false;
-        }
-
-        if(memo[index] != -1){
-            return memo[index] == 1;
-        }
-        for (int i = 1; i <= nums[index]; i++) {
-            if (solve(nums, len, index + i) == true) {
-                memo[index] = 1;
-                return true;
+        boolean[] top = new boolean[len];
+        top[0]= true;
+        for(int i = 1;i<len;i++){
+            for(int j = i-1;j>=0;j--){
+                if(top[j] == true && j+nums[j] >= i){
+                    top[i] = true;
+                    break;
+                }
             }
         }
-        memo[index] = 0;
-        return false;
+        return top[len-1];
+        
     }
-
 }
