@@ -1,25 +1,48 @@
 class RandomizedSet {
-    Set<Integer> set;
-
+    List<Integer> list;//for random access
+    Map<Integer,Integer> map;//store val->index in list
+    Random rand;
     public RandomizedSet() {
-        set = new HashSet<>();
+        list = new ArrayList<>();
+        map = new HashMap<>();
+        rand = new Random();
     }
-
-    // O(1)
+    
     public boolean insert(int val) {
-        return set.add(val); // returns false if already present
+        if(map.containsKey(val)) return false;
+        else{
+            list.add(val);
+            map.put(val,list.size()-1);
+            return true;
+        }
+        
     }
-
-    // O(1)
+    
     public boolean remove(int val) {
-        return set.remove(val); // returns false if not present
-    }
+        if(!map.containsKey(val)) return false;
+        int index = map.get(val);
+        int lastElement = list.get(list.size()-1);
 
-    // ❌ O(n)
+        list.set(index,lastElement);
+        map.put(lastElement,index);
+
+        list.remove(list.size()-1);
+        map.remove(val);
+
+        return true;
+
+    }
+    
     public int getRandom() {
-        // Convert set to array to allow random index access
-        Integer[] array = set.toArray(new Integer[0]);
-        Random rand = new Random();
-        return array[rand.nextInt(array.length)];
+        int index = rand.nextInt(list.size());
+        return list.get(index);
     }
 }
+
+/**
+ * Your RandomizedSet object will be instantiated and called as such:
+ * RandomizedSet obj = new RandomizedSet();
+ * boolean param_1 = obj.insert(val);
+ * boolean param_2 = obj.remove(val);
+ * int param_3 = obj.getRandom();
+ */
