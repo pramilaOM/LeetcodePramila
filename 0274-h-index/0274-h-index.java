@@ -1,32 +1,47 @@
 class Solution {
     public int hIndex(int[] citations) {
-         // bf Time Complexity: O(n²)
-        // For each of n possible h values, we scan the array (another n) to count valid
-        // papers.
-
-        // Space Complexity: O(1)
-        // Only a few variables used for tracking.
-
-        // Let n be the number of papers (length of the citations array).
+          /**
+         * Optimized Bucket Sort-based solution for H-Index problem.
+         *
+         * ✅ Logic to Remember:
+         * - H-index = maximum h such that at least h papers have ≥ h citations.
+         * - Citations range: 0 to 1000 → use counting instead of sorting.
+         * - Bucket citations into a count array: count[i] = number of papers with i
+         * citations.
+         * - Group all citations ≥ n (number of papers) into count[n].
+         * - Accumulate from high to low (n to 0) until you find the largest h
+         * such that total papers with ≥ h citations is ≥ h.
+         *
+         * ✅ Time Complexity: O(n)
+         * - One pass to count frequencies
+         * - One reverse pass to find h-index
+         *
+         * ✅ Space Complexity: O(1)
+         * - Uses fixed size count array (size 1001, due to constraint: 0 ≤ citations[i]
+         * ≤ 1000)
+         */
+        int[] count = new int[5001]; // count[i] = number of papers with i citations
         int n = citations.length;
-        int max = 0;
-        // h loops from 1 to n
-        for (int i = 1; i <= n; i++) {//IMP
-            // For each h, you count how many values in citations[] are ≥ h
-            int count = 0;
-            for (int j = 0; j < n; j++) {
-                if (citations[j] >= i) {
-                    count++;
-                }
 
-            }
-            // If count ≥ h, it's a valid H-index candidate
-            if (count >= i) {
-                max = i;
+        // Step 1: Count how many papers have each citation count
+        for (int citation : citations) {
+            if (citation >= n) {
+                count[n]++; // Group all values ≥ n into count[n]
+            } else {
+                count[citation]++;
             }
         }
 
-        return max;
+        // Step 2: Accumulate from right to left to find the maximum h
+        int total = 0; // Total papers with ≥ i citations
+        for (int i = n; i >= 0; i--) {
+            total += count[i];
+            if (total >= i) {
+                return i; // h-index found
+            }
+        }
+
+        return 0; // No valid h-index found
         
     }
 }
