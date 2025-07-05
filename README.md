@@ -143,6 +143,7 @@
 | [0001-two-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pramilaOM/LeetcodePramila/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pramilaOM/LeetcodePramila/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/pramilaOM/LeetcodePramila/tree/master/0036-valid-sudoku) |
@@ -354,6 +355,7 @@
 | [0002-add-two-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pramilaOM/LeetcodePramila/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/0066-plus-one) |
@@ -389,6 +391,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pramilaOM/LeetcodePramila/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/pramilaOM/LeetcodePramila/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
