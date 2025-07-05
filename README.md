@@ -648,17 +648,20 @@
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
 ## Counting Sort
 |  |
 | ------- |
