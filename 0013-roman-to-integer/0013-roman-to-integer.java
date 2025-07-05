@@ -1,42 +1,35 @@
 class Solution {
     public int romanToInt(String s) {
-        // ⏱ Time Complexity:
-        // O(n) — where n = s.length() (scan each character once)
+        // ⏱ Time Complexity: O(n)
+        // — One pass through the string of length n
 
-        // \U0001f9e0 Space Complexity:
-        // O(1) — uses a fixed-size map (at most 7 Roman characters)
+        // \U0001f9e0 Space Complexity: O(1)
+        // — Only a fixed-size array of 26 characters (no dynamic structures)
 
-        // Step 1: Map Roman symbols to values
-        Map<Character, Integer> roman = new HashMap<>();
-        roman.put('I', 1);
-        roman.put('V', 5);
-        roman.put('X', 10);
-        roman.put('L', 50);
-        roman.put('C', 100);
-        roman.put('D', 500);
-        roman.put('M', 1000);
+        // Map each Roman numeral to its integer value
+        int[] values = new int[26]; // 'A' to 'Z'
+        values['I' - 'A'] = 1;
+        values['V' - 'A'] = 5;
+        values['X' - 'A'] = 10;
+        values['L' - 'A'] = 50;
+        values['C' - 'A'] = 100;
+        values['D' - 'A'] = 500;
+        values['M' - 'A'] = 1000;
 
         int total = 0;
-        int i = 0;
+        int prev = 0;
 
-        // Step 2: Traverse the string from left to right
-        while (i < s.length()) {
-            int curr = roman.get(s.charAt(i));
+        // Traverse from right to left
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int curr = values[s.charAt(i) - 'A'];
 
-            // Step 3: Check if a subtraction pair exists
-            if (i + 1 < s.length()) {
-                int next = roman.get(s.charAt(i + 1));
-
-                if (next > curr) {
-                    total += (next - curr); // subtractive pair
-                    i += 2; // skip next char
-                    continue;
-                }
+            if (curr < prev) {
+                total -= curr; // Subtractive case
+            } else {
+                total += curr; // Normal addition
             }
 
-            // Step 4: Add normal value
-            total += curr;
-            i++;
+            prev = curr;
         }
 
         return total;
