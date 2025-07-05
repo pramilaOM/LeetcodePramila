@@ -424,6 +424,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -514,6 +515,7 @@
 | [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -660,6 +662,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
 ## Counting Sort
