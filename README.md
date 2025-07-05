@@ -419,6 +419,7 @@
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
@@ -574,6 +575,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/pramilaOM/LeetcodePramila/tree/master/0735-asteroid-collision) |
@@ -791,6 +793,7 @@
 | [0050-powx-n](https://github.com/pramilaOM/LeetcodePramila/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
