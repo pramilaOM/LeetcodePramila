@@ -499,6 +499,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
+| [0806-domino-and-tromino-tiling](https://github.com/pramilaOM/LeetcodePramila/tree/master/0806-domino-and-tromino-tiling) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
