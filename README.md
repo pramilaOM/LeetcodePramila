@@ -100,6 +100,7 @@
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1036-rotting-oranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
@@ -638,6 +639,7 @@
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -870,6 +872,7 @@
 | [0871-keys-and-rooms](https://github.com/pramilaOM/LeetcodePramila/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
