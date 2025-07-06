@@ -90,6 +90,7 @@
 | [0724-find-pivot-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/pramilaOM/LeetcodePramila/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pramilaOM/LeetcodePramila/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
@@ -515,6 +516,7 @@
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pramilaOM/LeetcodePramila/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/pramilaOM/LeetcodePramila/tree/master/0806-domino-and-tromino-tiling) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
