@@ -446,6 +446,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/pramilaOM/LeetcodePramila/tree/master/1666-make-the-string-great) |
@@ -516,6 +517,7 @@
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
