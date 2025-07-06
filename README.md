@@ -122,6 +122,7 @@
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -643,6 +644,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
@@ -874,6 +876,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
