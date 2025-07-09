@@ -147,6 +147,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -565,6 +566,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
