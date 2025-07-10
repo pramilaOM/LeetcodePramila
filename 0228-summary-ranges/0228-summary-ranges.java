@@ -1,5 +1,10 @@
 class Solution {
     public List<String> summaryRanges(int[] nums) {
+        //did by myself
+        //Time Complexity: O(n), because each element is visited once.
+
+        // Space Complexity: O(1) extra (excluding result list).
+
         int n = nums.length;
         List<String> ans = new ArrayList<>();
         for (int i = 0; i < n; i++) {
