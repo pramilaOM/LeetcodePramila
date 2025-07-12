@@ -4,9 +4,9 @@ class Solution {
         while (first < s.length() && second < t.length()) {
             if (s.charAt(first) == t.charAt(second)) {
                 first++;
-            } else {
+            } 
                 second++;
-            }
+            
         }
         return first == s.length();
     }
