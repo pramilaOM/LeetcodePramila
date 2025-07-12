@@ -544,6 +544,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/pramilaOM/LeetcodePramila/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3618-find-the-original-typed-string-ii) |
@@ -992,6 +993,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/pramilaOM/LeetcodePramila/tree/master/0139-word-break) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/pramilaOM/LeetcodePramila/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Iterator
 |  |
