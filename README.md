@@ -68,6 +68,7 @@
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/pramilaOM/LeetcodePramila/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
@@ -367,6 +368,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pramilaOM/LeetcodePramila/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -636,6 +638,7 @@
 | [0076-minimum-window-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/0643-maximum-average-subarray-i) |
@@ -749,6 +752,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pramilaOM/LeetcodePramila/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
@@ -1049,6 +1053,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
