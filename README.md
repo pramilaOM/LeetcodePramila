@@ -68,6 +68,7 @@
 | [0238-product-of-array-except-self](https://github.com/pramilaOM/LeetcodePramila/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pramilaOM/LeetcodePramila/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/pramilaOM/LeetcodePramila/tree/master/0303-range-sum-query-immutable) |
@@ -251,6 +252,7 @@
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/pramilaOM/LeetcodePramila/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
@@ -283,6 +285,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -703,6 +706,7 @@
 | [0191-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/pramilaOM/LeetcodePramila/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
