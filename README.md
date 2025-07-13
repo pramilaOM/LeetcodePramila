@@ -22,6 +22,7 @@
 | [0045-jump-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pramilaOM/LeetcodePramila/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/pramilaOM/LeetcodePramila/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0055-jump-game) |
@@ -1012,6 +1013,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/pramilaOM/LeetcodePramila/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
