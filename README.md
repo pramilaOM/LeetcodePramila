@@ -419,6 +419,7 @@
 | [0189-rotate-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/pramilaOM/LeetcodePramila/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
@@ -549,6 +550,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pramilaOM/LeetcodePramila/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pramilaOM/LeetcodePramila/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/pramilaOM/LeetcodePramila/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/pramilaOM/LeetcodePramila/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
@@ -929,6 +931,7 @@
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pramilaOM/LeetcodePramila/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/pramilaOM/LeetcodePramila/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
