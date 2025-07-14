@@ -1070,6 +1070,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0176-second-highest-salary) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/pramilaOM/LeetcodePramila/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/pramilaOM/LeetcodePramila/tree/master/1664-find-users-with-valid-e-mails) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pramilaOM/LeetcodePramila/tree/master/2127-employees-whose-manager-left-the-company) |
