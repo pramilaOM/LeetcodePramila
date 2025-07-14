@@ -1074,5 +1074,6 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pramilaOM/LeetcodePramila/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/pramilaOM/LeetcodePramila/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/pramilaOM/LeetcodePramila/tree/master/1664-find-users-with-valid-e-mails) |
+| [2087-confirmation-rate](https://github.com/pramilaOM/LeetcodePramila/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pramilaOM/LeetcodePramila/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
