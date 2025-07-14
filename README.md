@@ -1074,6 +1074,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pramilaOM/LeetcodePramila/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1135-customers-who-bought-all-products](https://github.com/pramilaOM/LeetcodePramila/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1155-product-sales-analysis-iii) |
+| [1278-product-price-at-a-given-date](https://github.com/pramilaOM/LeetcodePramila/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/1317-monthly-transactions-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/pramilaOM/LeetcodePramila/tree/master/1462-list-the-products-ordered-in-a-period) |
