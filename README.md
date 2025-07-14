@@ -1072,6 +1072,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/pramilaOM/LeetcodePramila/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pramilaOM/LeetcodePramila/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/pramilaOM/LeetcodePramila/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/pramilaOM/LeetcodePramila/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1135-customers-who-bought-all-products](https://github.com/pramilaOM/LeetcodePramila/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1155-product-sales-analysis-iii) |
