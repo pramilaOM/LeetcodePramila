@@ -1067,4 +1067,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/pramilaOM/LeetcodePramila/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
