@@ -1,47 +1,51 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-        List<Integer> ans = new ArrayList<>();
+                List<Integer> result = new ArrayList<>();
         if (s == null || s.length() == 0 || words == null || words.length == 0)
-            return ans;
+            return result;
 
-        int wordLen = words[0].length();
-        int totalLen = wordLen * words.length;
-        int n = s.length();
+        int L = words[0].length(); // Length of each word
+        int N = words.length; // Number of words
 
-        Map<String, Integer> wordMap = new HashMap<>();
-        for (String w : words) {
-            wordMap.put(w, wordMap.getOrDefault(w, 0) + 1);
+        Map<String, Integer> wordCount = new HashMap<>();
+        for (String word : words) {
+            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
         }
-        for (int i = 0; i < wordLen; i++) {
-            int left = i;
-            int right = i;
-            Map<String, Integer> windowMap = new HashMap<>();
-            int count = 0;
 
-            while (right + wordLen <= n) {
-                String word = s.substring(right, right + wordLen);
-                right += wordLen;
+        // Try every offset within word length
+        for (int i = 0; i < L; i++) {
+            int left = i, right = i, count = 0;
+            Map<String, Integer> seen = new HashMap<>();
 
-                if (wordMap.containsKey(word)) {
-                    windowMap.put(word, windowMap.getOrDefault(word, 0) + 1);
+            while (right + L <= s.length()) {
+                String word = s.substring(right, right + L);
+                right += L;
+
+                if (wordCount.containsKey(word)) {
+                    seen.put(word, seen.getOrDefault(word, 0) + 1);
                     count++;
-                    while (windowMap.get(word) > wordMap.get(word)) {
-                        String leftWord = s.substring(left, left + wordLen);
-                        windowMap.put(leftWord, windowMap.get(leftWord) - 1);
-                        left += wordLen;
+
+                    // Shrink window if word frequency is too high
+                    while (seen.get(word) > wordCount.get(word)) {
+                        String leftWord = s.substring(left, left + L);
+                        seen.put(leftWord, seen.get(leftWord) - 1);
                         count--;
+                        left += L;
                     }
-                    if (count == words.length) {
-                        ans.add(left);
+
+                    // If valid window found
+                    if (count == N) {
+                        result.add(left);
                     }
                 } else {
-                    windowMap.clear();
+                    // Invalid word, reset window
+                    seen.clear();
                     count = 0;
                     left = right;
                 }
             }
         }
 
-        return ans;
+        return result;
     }
 }
