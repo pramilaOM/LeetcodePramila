@@ -1,7 +1,9 @@
+import java.util.HashSet;
+
 class Solution {
-    boolean isValidSubbox(char[][] board, int sr, int er, int sc, int ec) {
-        Set<Character> set = new HashSet<>();
-        for (int row = sr; row <=er; row++) {
+    private boolean isValidSubBox(char[][] board, int sr, int er, int sc, int ec) {
+        HashSet<Character> set = new HashSet<>();
+        for (int row = sr; row <= er; row++) {
             for (int col = sc; col <= ec; col++) {
                 char ch = board[row][col];
                 if (ch == '.')
@@ -9,16 +11,15 @@ class Solution {
                 if (set.contains(ch))
                     return false;
                 set.add(ch);
-
             }
         }
         return true;
     }
 
     public boolean isValidSudoku(char[][] board) {
-        //row
+        // Validate rows
         for (int row = 0; row < 9; row++) {
-            Set<Character> set = new HashSet<>();
+            HashSet<Character> set = new HashSet<>();
             for (int col = 0; col < 9; col++) {
                 char ch = board[row][col];
                 if (ch == '.')
@@ -26,12 +27,12 @@ class Solution {
                 if (set.contains(ch))
                     return false;
                 set.add(ch);
-
             }
         }
-        //column
+
+        // Validate columns
         for (int col = 0; col < 9; col++) {
-            Set<Character> set = new HashSet<>();
+            HashSet<Character> set = new HashSet<>();
             for (int row = 0; row < 9; row++) {
                 char ch = board[row][col];
                 if (ch == '.')
@@ -39,19 +40,18 @@ class Solution {
                 if (set.contains(ch))
                     return false;
                 set.add(ch);
-
             }
         }
-        //grid
-        for (int row = 0; row < 9; row += 3) {
-            for (int col = 0; col < 9; col += 3) {
-                if (!isValidSubbox(board, row, row + 2, col, col + 2)) {
+
+        // Validate 3x3 sub-boxes
+        for (int sr = 0; sr < 9; sr += 3) {
+            for (int sc = 0; sc < 9; sc += 3) {
+                if (!isValidSubBox(board, sr, sr + 2, sc, sc + 2)) {
                     return false;
                 }
-
             }
         }
-        return true;
 
+        return true;
     }
 }
