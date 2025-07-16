@@ -1,8 +1,8 @@
 class Solution {
     boolean isValidSubbox(char[][] board, int sr, int er, int sc, int ec) {
         Set<Character> set = new HashSet<>();
-        for (int row = 0; row < 9; row++) {
-            for (int col = 0; col < 9; col++) {
+        for (int row = sr; row <=er; row++) {
+            for (int col = sc; col <= ec; col++) {
                 char ch = board[row][col];
                 if (ch == '.')
                     continue;
