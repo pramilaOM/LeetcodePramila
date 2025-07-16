@@ -32,7 +32,7 @@ class Solution {
         //column
         for (int col = 0; col < 9; col++) {
             Set<Character> set = new HashSet<>();
-            for (int row = 0; col < 9; col++) {
+            for (int row = 0; row < 9; row++) {
                 char ch = board[row][col];
                 if (ch == '.')
                     continue;
