@@ -140,6 +140,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -377,6 +378,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -575,6 +577,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/pramilaOM/LeetcodePramila/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
