@@ -498,6 +498,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
