@@ -129,6 +129,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -212,6 +213,7 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -660,6 +662,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
