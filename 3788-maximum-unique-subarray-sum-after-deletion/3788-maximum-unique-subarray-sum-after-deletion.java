@@ -1,19 +1,20 @@
 class Solution {
     public int maxSum(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+         int[] mp = new int[101];
+        Arrays.fill(mp, -1); // initialize to -1
         
         int sum = 0;
         int maxNeg = Integer.MIN_VALUE;
         
         for(int num : nums) {
             if(num <= 0) {
-                maxNeg = Math.max(maxNeg, num); 
-            } else if(!set.contains(num)) {
+                maxNeg = Math.max(maxNeg, num);
+            } else if(mp[num] == -1) {
                 sum += num;
-                set.add(num);
+                mp[num] = 1; 
             }
         }
-        
-        return sum == 0 ? maxNeg : sum;
+
+        return sum > 0 ? sum : maxNeg;
     }
 }
