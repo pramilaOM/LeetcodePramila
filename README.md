@@ -208,6 +208,7 @@
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/pramilaOM/LeetcodePramila/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pramilaOM/LeetcodePramila/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/pramilaOM/LeetcodePramila/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -501,6 +503,7 @@
 | [0242-valid-anagram](https://github.com/pramilaOM/LeetcodePramila/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/pramilaOM/LeetcodePramila/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
