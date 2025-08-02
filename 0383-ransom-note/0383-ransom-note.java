@@ -1,20 +1,22 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        //bf
-        StringBuilder mag = new StringBuilder(magazine);
-        // For each character in ransomNote
+        //Create a frequency count array freq[26] for characters in magazine.
+        int[] freq = new int[26];
+        for (char ch : magazine.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+        // Iterate over ransomNote:
         for (char ran : ransomNote.toCharArray()) {
-            // Scan the entire magazine string to find and remove the first occurrence of
-            // that character.
-            int index = mag.indexOf(String.valueOf(ran));
-            // If not found → return false
-            if (index == -1) {
+            // For each character, check if it's available in freq[].
+            if (freq[ran -'a'] == 0) {
                 return false;
             }
-            mag.deleteCharAt(index);
-
+            // If yes, decrement count.
+            freq[ran - 'a']--;
+            // If not, return false.
         }
 
+        // If all characters are available in the required quantity → return true.
         return true;
     }
 }
