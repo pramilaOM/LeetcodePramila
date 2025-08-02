@@ -1,15 +1,20 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-
-        StringBuffer sb = new StringBuffer(magazine);
+        //bf
+        StringBuilder mag = new StringBuilder(magazine);
+        // For each character in ransomNote
         for (char ran : ransomNote.toCharArray()) {
-            int index = sb.indexOf(String.valueOf(ran));
+            // Scan the entire magazine string to find and remove the first occurrence of
+            // that character.
+            int index = mag.indexOf(String.valueOf(ran));
+            // If not found → return false
             if (index == -1) {
                 return false;
             }
-            sb.deleteCharAt(index);
+            mag.deleteCharAt(index);
 
         }
+
         return true;
     }
 }
