@@ -1,15 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        StringBuilder mag = new StringBuilder(magazine);
 
-        for (char ch : ransomNote.toCharArray()) {
-            int index = mag.indexOf(String.valueOf(ch)); // find first occurrence
+        StringBuffer sb = new StringBuffer(magazine);
+        for (char ran : ransomNote.toCharArray()) {
+            int index = sb.indexOf(String.valueOf(ran));
             if (index == -1) {
-                return false; // character not found
+                return false;
             }
-            mag.deleteCharAt(index); // remove used character
-        }
+            sb.deleteCharAt(index);
 
+        }
         return true;
     }
 }
