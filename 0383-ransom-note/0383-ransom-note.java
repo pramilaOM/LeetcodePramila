@@ -1,14 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        Map<Character, Integer> map = new HashMap<>();
-        Map<Character, Integer> map2 = new HashMap<>();
-        for (char mag : magazine.toCharArray()) {
-            map.put(mag, map.getOrDefault(mag, 0) + 1);
-        }
-        for (char ran : ransomNote.toCharArray()) {
-            map2.put(ran, map2.getOrDefault(ran, 0) + 1);
-        }
-        return map.equals(map2);
+        StringBuilder mag = new StringBuilder(magazine);
 
+        for (char ch : ransomNote.toCharArray()) {
+            int index = mag.indexOf(String.valueOf(ch)); // find first occurrence
+            if (index == -1) {
+                return false; // character not found
+            }
+            mag.deleteCharAt(index); // remove used character
+        }
+
+        return true;
     }
 }
