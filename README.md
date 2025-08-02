@@ -163,6 +163,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -231,6 +232,7 @@
 | [2479-meeting-rooms-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -530,6 +532,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/pramilaOM/LeetcodePramila/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1076,6 +1079,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Doubly-Linked List
 |  |
 | ------- |
