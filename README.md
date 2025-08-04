@@ -104,6 +104,7 @@
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
@@ -217,6 +218,7 @@
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/pramilaOM/LeetcodePramila/tree/master/1319-unique-number-of-occurrences) |
@@ -693,6 +695,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
