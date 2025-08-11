@@ -224,6 +224,7 @@
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -365,6 +366,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
@@ -432,6 +434,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pramilaOM/LeetcodePramila/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -473,6 +476,7 @@
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1004,6 +1008,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
