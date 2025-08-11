@@ -159,6 +159,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pramilaOM/LeetcodePramila/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pramilaOM/LeetcodePramila/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/pramilaOM/LeetcodePramila/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
@@ -692,6 +693,7 @@
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pramilaOM/LeetcodePramila/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -806,6 +808,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pramilaOM/LeetcodePramila/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pramilaOM/LeetcodePramila/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
