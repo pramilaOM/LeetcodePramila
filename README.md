@@ -473,6 +473,7 @@
 | [0231-power-of-two](https://github.com/pramilaOM/LeetcodePramila/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/pramilaOM/LeetcodePramila/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/pramilaOM/LeetcodePramila/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pramilaOM/LeetcodePramila/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
@@ -808,6 +809,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pramilaOM/LeetcodePramila/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/pramilaOM/LeetcodePramila/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1000,6 +1002,7 @@
 | [0231-power-of-two](https://github.com/pramilaOM/LeetcodePramila/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pramilaOM/LeetcodePramila/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pramilaOM/LeetcodePramila/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
