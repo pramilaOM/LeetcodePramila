@@ -472,6 +472,7 @@
 | [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/pramilaOM/LeetcodePramila/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/pramilaOM/LeetcodePramila/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/pramilaOM/LeetcodePramila/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pramilaOM/LeetcodePramila/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
@@ -998,6 +999,7 @@
 | [0224-basic-calculator](https://github.com/pramilaOM/LeetcodePramila/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/pramilaOM/LeetcodePramila/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/pramilaOM/LeetcodePramila/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
