@@ -479,6 +479,7 @@
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
@@ -633,6 +634,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/pramilaOM/LeetcodePramila/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/pramilaOM/LeetcodePramila/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
@@ -726,6 +728,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1217,4 +1220,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
