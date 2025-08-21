@@ -1,13 +1,15 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int sum = 0;
+        int xor = 0;
 
-        for (char ch : t.toCharArray()) {
-            sum += ch;
+        for (char c : t.toCharArray()) {
+            xor ^= c;
         }
-        for (char ch : s.toCharArray()) {
-            sum -= ch;
+
+        for (char c : s.toCharArray()) {
+            xor ^= c;
         }
-        return (char) (sum);
+
+        return (char) xor;
     }
 }
