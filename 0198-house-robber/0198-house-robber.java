@@ -1,25 +1,24 @@
 class Solution {
-    int[] dp = new int[401];
-
-    int solve(int[] nums, int currentIndex) {
-        if (currentIndex == nums.length - 1) {
-            dp[currentIndex] = nums[currentIndex];
-            return dp[currentIndex];
-        } else if (currentIndex > nums.length - 1) {
+    //Memoi Top Down
+    int[] t = new int[101];
+    public int solve(int[] nums, int index, int n) {
+        if (index >= n) {
             return 0;
         }
 
-        if (dp[currentIndex] != -1) {
-            return dp[currentIndex];
+        if(t[index] !=-1){
+            return t[index];
         }
-        int rob = solve(nums, currentIndex + 2);
-        int noRob = solve(nums, currentIndex + 1);
-        dp[currentIndex] = Math.max(rob + nums[currentIndex], noRob);
-        return dp[currentIndex];
+
+        int steal = nums[index] + solve(nums, index + 2, n);
+        int skip = solve(nums, index + 1, n);
+
+        return t[index] =Math.max(steal, skip);
     }
 
     public int rob(int[] nums) {
-        Arrays.fill(dp, -1);
-        return solve(nums, 0);
+        int n = nums.length;
+        Arrays.fill(t,-1);
+        return solve(nums, 0, n);
     }
 }
