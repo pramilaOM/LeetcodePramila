@@ -1,5 +1,5 @@
 class Solution {
-    //memoized
+    //memoized Top down
     int[] t = new int[46];
 
     private int solve(int n) {
