@@ -1,26 +1,27 @@
 class Solution {
+    //BF
+    int[] t = new int[46];
 
-int[] t = new int[46];
-    int solve(int step, int last) {
-
-        if (step == last) {
-            t[last] =1;
-            return t[last];
-        } else if (step > last) {
+    private int solve(int n) {
+        if (n < 0) {
             return 0;
         }
-
-        if(t[step] !=-1){
-            return t[step];
+        if(t[n] != -1){
+            return t[n];
+        }
+        if (n == 0) {
+            return 1;
         }
 
-        t[step]= solve(step + 1, last) + solve(step + 2, last);
-        return t[step];
+        int oneStep = solve(n - 1);
+        int twoStep = solve(n - 2);
+
+        return t[n] = oneStep + twoStep;
+
     }
 
     public int climbStairs(int n) {
-        Arrays.fill(t,-1);
-        return solve(0, n);
-
+        Arrays.fill(t, -1);
+        return solve(n);
     }
 }
