@@ -1,5 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
+        //Bottom Up
         int n = nums.length;
         int t[] = new int[n + 1];
         Arrays.fill(t, 0);
