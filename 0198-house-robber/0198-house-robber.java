@@ -1,6 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
-        //Bottom Up
+        //Bottom Up it will not work if = is missed in for loop
         int n = nums.length;
         int t[] = new int[n + 1];
         Arrays.fill(t, 0);
