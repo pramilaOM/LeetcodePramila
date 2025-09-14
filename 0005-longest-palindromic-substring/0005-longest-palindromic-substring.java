@@ -1,27 +1,30 @@
 class Solution {
+    //BF
+
+    public boolean isPalindrome(String s, int i, int j) {
+        if (i >= j) {
+            return true;
+        }
+        if (s.charAt(i) == s.charAt(j)) {
+            return isPalindrome(s, i + 1, j - 1);
+        }
+        return false;
+    }
+
     public String longestPalindrome(String s) {
         int n = s.length();
-        boolean[][] t = new boolean[n][n];
-        int maxL = 1;
-        int start = 0;
-
+        int maxLen = Integer.MIN_VALUE;
+        int startIndex = 0;
         for (int i = 0; i < n; i++) {
-            t[i][i] = true;
-        }
-
-        for (int l = 2; l <= n; l++) {
-            for (int i = 0; i < n - l + 1; i++) {
-                int j = i + l - 1;
-                if (s.charAt(i) == s.charAt(j) && (t[i + 1][j - 1] || l == 2)) {
-                    t[i][j] = true;
-                    if (l > maxL) {
-                        maxL = l;
-                        start = i;
+            for (int j = i; j < n; j++) {
+                if (isPalindrome(s, i, j)) {
+                    if (j - i + 1 > maxLen) {
+                        maxLen = j - i + 1;
+                        startIndex = i;
                     }
                 }
             }
         }
-
-        return s.substring(start, start + maxL);
+        return s.substring(startIndex, startIndex + maxLen);
     }
 }
