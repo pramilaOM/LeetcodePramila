@@ -1,9 +1,9 @@
 class Solution {
-    int n;
-    private Boolean[] t;
+    //memo 
+    Boolean[] t;
 
     boolean solve(String s, int idx, List<String> wordDict) {
-        if (idx == n) {
+        if (idx == s.length()) {
             return true;
         }
 
@@ -11,10 +11,9 @@ class Solution {
             return t[idx];
         }
 
-        for (int end = idx + 1; end <= n; end++) {
-            String split = s.substring(idx, end);
-
-            if (wordDict.contains(split) && solve(s, end, wordDict)) {
+        for (int i = idx + 1; i <= s.length(); i++) {
+            String split = s.substring(idx, i);
+            if (wordDict.contains(split) && solve(s, i, wordDict)) {
                 return t[idx] = true;
             }
         }
@@ -22,9 +21,8 @@ class Solution {
     }
 
     public boolean wordBreak(String s, List<String> wordDict) {
-        n = s.length();
-        t = new Boolean[n];
+        int n = s.length();
+        t = new Boolean[s.length()];
         return solve(s, 0, wordDict);
-
     }
 }
