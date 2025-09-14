@@ -9,9 +9,9 @@ class Solution {
         if (t[i][j] != -1) {
             return t[i][j];
         }
-        if (i == row - 1) {
+        if (i == row - 1) {//right
             return t[i][j] = grid[i][j] + solve(grid, i, j + 1, row, column);
-        } else if (j == column - 1) {
+        } else if (j == column - 1) {//down
             return t[i][j] = grid[i][j] + solve(grid, i + 1, j, row, column);
         } else {
             return t[i][j] = grid[i][j]
