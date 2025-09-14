@@ -26,6 +26,9 @@ class Solution {
         m = s1.length();
         n = s2.length();
         p = s3.length();
+        if(i+j != p){
+            return false;
+        }
         return solve(0, 0, s1, s2, s3);
     }
 }
