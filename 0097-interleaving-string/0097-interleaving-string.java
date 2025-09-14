@@ -22,8 +22,10 @@ class Solution {
         }
 
         if (result == true) {
+            t[i][j][k] = 1;
             return true;
         }
+
         if (j < n && s2.charAt(j) == s3.charAt(k)) {
             result = solve(i, j + 1, k + 1, s1, s2, s3);
         }
