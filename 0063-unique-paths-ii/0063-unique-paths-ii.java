@@ -14,13 +14,13 @@ class Solution {
 
     public int solve(int[][] obstacleGrid, int i, int j, int m, int n) {
         if (i >= m || j >= n || obstacleGrid[i][j] == 1) {
-            return t[i][j] = 0;
+            return 0;
         }
         if (t[i][j] != -1) {
             return t[i][j];
         }
         if (i == m - 1 && j == n - 1) {
-            return t[i][j] = 1;
+            return 1;
         }
         int right = solve(obstacleGrid, i, j + 1, m, n);
         int down = solve(obstacleGrid, i + 1, j, m, n);
