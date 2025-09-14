@@ -2,13 +2,11 @@ class Solution {
 
     //bf
     public int solve(String s1, String s2, int m, int n) {
-        if (m == 0) {
-            return n;
-        } else if (n == 0) {
-            return m;
+        if (m == 0 || n == 0) {
+            return n + m;
         }
 
-        if (s1.charAt(m-1) == s2.charAt(n-1)) {
+        if (s1.charAt(m - 1) == s2.charAt(n - 1)) {
             return solve(s1, s2, m - 1, n - 1);
         }
 
