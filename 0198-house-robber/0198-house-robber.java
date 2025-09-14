@@ -2,6 +2,9 @@ class Solution {
     public int rob(int[] nums) {
         //Bottom Up it will not work if = is missed in for loop
         int n = nums.length;
+        if(n ==1 ){
+            return nums[0];
+        }
         int t[] = new int[n + 1];
         Arrays.fill(t, 0);
         t[0] = 0;
