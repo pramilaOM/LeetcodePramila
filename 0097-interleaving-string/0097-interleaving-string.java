@@ -1,6 +1,7 @@
 class Solution {
     //bf
     int m, n, p;
+    int[][] t;
 
     public boolean solve(int i, int j, String s1, String s2, String s3) {
         if (i == m && j == n) {
@@ -8,6 +9,10 @@ class Solution {
         }
         if (i + j >= p) {
             return false;
+        }
+
+        if (t[i][j] != -1) {
+            return t[i][j] == 1;
         }
         boolean result = false;
         if (i < m && s1.charAt(i) == s3.charAt(i + j)) {
@@ -19,6 +24,7 @@ class Solution {
         if (j < n && s2.charAt(j) == s3.charAt(i + j)) {
             result = solve(i, j + 1, s1, s2, s3);
         }
+        t[i][j] = result ? 1 : 0;
         return result;
     }
 
@@ -26,8 +32,12 @@ class Solution {
         m = s1.length();
         n = s2.length();
         p = s3.length();
-        if(i+j != p){
+        if (m + n != p) {
             return false;
+        }
+        t = new int[m + 1][n + 1];
+        for (int[] arr : t) {
+            Arrays.fill(arr, -1);
         }
         return solve(0, 0, s1, s2, s3);
     }
