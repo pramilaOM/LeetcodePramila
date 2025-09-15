@@ -1,9 +1,9 @@
 class Solution {
 
     private boolean valideSubBox(char[][] board, int sr, int er, int sc, int ec) {
-        for (int i = sr; i < er; i++) {
+        for (int i = sr; i <= er; i++) {
             Set<Character> set = new HashSet<>();
-            for (int j = sc; j < ec; j++) {
+            for (int j = sc; j <= ec; j++) {
                 if (board[i][j] == '.')
                     continue;
                 if (set.contains(board[i][j]))
