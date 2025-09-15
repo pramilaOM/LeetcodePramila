@@ -40,8 +40,6 @@ class Solution {
 
         int left = searchLeft(nums, target, n);
         int right = searchRight(nums, target, n);
-        ans[0] = left;
-        ans[1] = right;
-        return ans;
+        return new int[]{left,right};
     }
 }
