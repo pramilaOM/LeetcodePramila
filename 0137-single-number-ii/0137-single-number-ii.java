@@ -1,18 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        //nlogn
-        Arrays.sort(nums);
-
-        int n = nums.length;
-        if (n == 1 || nums[0] != nums[1]) {
-            return nums[0];
-        }
-
-        for (int i = 1; i < n - 1; i++) {
-            if (nums[i] != nums[i - 1] && nums[i] != nums[i + 1]) {
-                return nums[i];
+        int result = 0;
+        for (int k = 0; k <= 31; k++) {
+            int temp = (1 << k);
+            int countOne = 0;
+            for (int num : nums) {
+                if ((num & temp) != 0) {
+                    countOne++;
+                }
+            }
+            if (countOne % 3 == 1) {
+                result = (result | temp);
             }
         }
-        return nums[n - 1];
+
+        return result;
     }
 }
