@@ -1,11 +1,11 @@
 //https://www.youtube.com/watch?v=OxUFaTwKp7E 
 class Solution {
     public int mySqrt(int x) {
-        if (x < 2) {
+        int l = 1;
+        int r = x;
+        if(x < 2){
             return x;
         }
-        int l = 0;
-        int r = x;
         while (l < r) {
             int mid = l + (r - l) / 2;
             int temp = x / mid;
