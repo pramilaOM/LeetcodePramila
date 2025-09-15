@@ -1,13 +1,11 @@
 class Solution {
     public int trailingZeroes(int n) {
-
-        int result = 0;
-
-        while (n > 0) {
-            n = n / 5;
-            result += n;
-
+        //find no of 5 and return because 2 * 5 will give 0
+        int count = 0;
+        while(n > 0){
+            n= n/5;
+            count = count+n;
         }
-        return result;
+        return count;
     }
 }
