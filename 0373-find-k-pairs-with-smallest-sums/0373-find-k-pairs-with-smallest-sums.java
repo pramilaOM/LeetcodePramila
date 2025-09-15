@@ -1,28 +1,39 @@
 class Solution {
+    static class Node {
+        long sum;
+        int i, j;
+
+        Node(long sum, int i, int j) {
+            this.sum = sum;
+            this.i = i;
+            this.j = j;
+        }
+    }
+
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-
         List<List<Integer>> result = new ArrayList<>();
-
-        if (nums1.length == 0 || nums2.length == 0 || k == 0)
+        int m = nums1.length, n = nums2.length;
+        if (m == 0 || n == 0 || k <= 0)
             return result;
 
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
+        PriorityQueue<Node> pq = new PriorityQueue<>((a, b) -> Long.compare(b.sum, a.sum));
 
-        for (int i = 0; i < Math.min(nums1.length, k); i++) {
-            minHeap.offer(new int[] { nums1[i] + nums2[0], i, 0 });
-        }
-
-        while (k > 0 && !minHeap.isEmpty()) {
-            int[] top = minHeap.poll();
-            int i = top[1];
-            int j = top[2];
-
-            result.add(Arrays.asList(nums1[i], nums2[j]));
-            k--;
-
-            if (j + 1 < nums2.length) {
-                minHeap.offer(new int[] { nums1[i] + nums2[j + 1], i, j + 1 });
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                long sum = (long) nums1[i] + nums2[j];
+                if (pq.size() < k) {
+                    pq.offer(new Node(sum, i, j));
+                } else if (pq.peek().sum > sum) {
+                    pq.poll();
+                    pq.offer(new Node(sum, i, j));
+                } else {
+                    break;
+                }
             }
+        }
+        while (!pq.isEmpty()) {
+            Node node = pq.poll();
+            result.add(Arrays.asList(nums1[node.i], nums2[node.j]));
         }
         return result;
     }
