@@ -1,15 +1,18 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int n: nums){
-            map.put(n,map.getOrDefault(n,0)+1);
+        //nlogn
+        Arrays.sort(nums);
+
+        int n = nums.length;
+        if (n == 1 || nums[0] != nums[1]) {
+            return nums[0];
         }
 
-       for(Map.Entry<Integer,Integer> entry: map.entrySet()){
-        if(entry.getValue() == 1){
-            return entry.getKey();
+        for (int i = 1; i < n - 1; i++) {
+            if (nums[i] != nums[i - 1] && nums[i] != nums[i + 1]) {
+                return nums[i];
+            }
         }
-       }
-       return -1;
+        return nums[n - 1];
     }
 }
