@@ -18,31 +18,33 @@ class Solution {
         if (head == null)
             return null;
 
-        HashMap<Node, Node> map = new HashMap<>();
         Node curr = head;
-        Node newHead = null;
-        Node prev = null;
 
         while (curr != null) {
-            Node temp = new Node(curr.val);
-            map.put(curr, temp);
-
-            if (newHead == null) {
-                newHead = temp;
-            } else {
-                prev.next = temp;
+            Node nextNode = curr.next;
+            Node copy = new Node(curr.val);
+            curr.next = copy;
+            copy.next = nextNode;
+            curr = nextNode;
+        }
+        curr = head;
+        while (curr != null) {
+            if (curr.random != null) {
+                curr.next.random = curr.random.next;
             }
-            prev = temp;
-            curr = curr.next;
-
+            curr = curr.next.next;
         }
 
+        Node newHead = head.next;
         curr = head;
         Node newCurr = newHead;
+
         while (curr != null) {
-            newCurr.random = map.get(curr.random);
+            curr.next = curr.next.next;
+            newCurr.next = (newCurr.next != null) ? newCurr.next.next : null;
             curr = curr.next;
             newCurr = newCurr.next;
+
         }
         return newHead;
     }
