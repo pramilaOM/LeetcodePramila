@@ -27,12 +27,12 @@ class Solution {
         ListNode curr = prev.next;
 
         for (int i = 1; i <= right - left; i++) {
+
             ListNode temp = prev.next;
             prev.next = curr.next;
             curr.next = curr.next.next;
             prev.next.next = temp;
         }
-
         return dummy.next;
 
     }
