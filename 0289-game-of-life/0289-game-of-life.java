@@ -1,45 +1,56 @@
 class Solution {
+
+    private int[][] directions = new int[][] { { 0, 1 }, { 1, 0 }, { -1, 0 }, { 0, -1 }, { -1, -1 }, { -1, 1 },
+            { 1, -1 }, { 1, 1 } };
+
     public void gameOfLife(int[][] board) {
-        int row = board.length;
-        int col = board[0].length;
+        //https://www.youtube.com/watch?v=l2mkUZG6CLU
 
-        int[][] directions = { { -1, -1 }, { -1, 0 }, { -1, 1 }, { 0, -1 }, { 0, 1 }, { 1, -1 }, { 1, 0 }, { 1, 1 } };
-
-        for (int r = 0; r < row; r++) {
-            for (int c = 0; c < col; c++) {
-                int liveNeighbors = 0;
-
-                for (int[] dir : directions) {
-                    int nr = r + dir[0];
-                    int nc = c + dir[1];
-
-                    if (nr >= 0 && nc >= 0 && nr < row && nc < col) {
-                        if (Math.abs(board[nr][nc]) == 1) {
-                            liveNeighbors++;
-                        }
+        for(int i =0;i<board.length;i++){
+            for(int j =0;j<board[0].length;j++){
+                if(board[i][j] ==1){
+                    int activeNeigh = getActiveNeigh(board,i,j);
+                    if(activeNeigh < 2 || activeNeigh > 3){
+                        board[i][j] =-2;
+                    }
+                    }
+                    else if(board[i][j] ==0){
+                        int activeNeigh = getActiveNeigh(board,i,j);
+                         if(activeNeigh == 3){
+                        board[i][j] =3;
+                    }
                     }
                 }
-
-                if (board[r][c] == 1 && (liveNeighbors < 2 || liveNeighbors > 3)) {
-                    board[r][c] = -1;
-                }
-
-                if (board[r][c] == 0 && liveNeighbors == 3) {
-                    board[r][c] = 2;
-                }
-
             }
+            updateBoard(board);
+            return;
         }
 
-        for (int r = 0; r < row; r++) {
-            for (int c = 0; c < col; c++) {
-                if (board[r][c] > 0) {
-                    board[r][c] = 1;
-                } else {
-                    board[r][c] = 0;
+    void updateBoard(int[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                if (board[i][j] == -2) {
+                    board[i][j] = 0;
+                }
+                if (board[i][j] == 3) {
+                    board[i][j] = 1;
                 }
             }
         }
+    }
+
+    int getActiveNeigh(int[][] board, int row, int col) {
+        int activeNeigh = 0;
+        for (int[] direction : directions) {
+            int newRow = row + direction[0];
+            int newCol = col + direction[1];
+
+            if (newRow >= 0 && newRow < board.length && newCol >= 0 && newCol < board[0].length
+                    && (board[newRow][newCol] == 1 || board[newRow][newCol] == -2)) {
+                activeNeigh++;
+            }
+        }
+        return activeNeigh;
 
     }
 }
