@@ -1,33 +1,51 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-                int top = 0;
-        int bottom = matrix.length - 1;
-        int left = 0;
-        int right = matrix[0].length - 1;
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        int top = 0, left = 0, down = m - 1, right = n - 1;
         List<Integer> result = new ArrayList<>();
-        while (left <= right && top <= bottom) {
-            for (int i = left; i <= right; i++) {
-                result.add(matrix[top][i]);
-            }
-            top++;
-            for (int i = top; i <= bottom; i++) {
-                result.add(matrix[i][right]);
-            }
-            right--;
-            if (top <= bottom) {
-                for (int i = right; i >= left; i--) {
-                    result.add(matrix[bottom][i]);
+        int dir = 0;
+
+        while (left <= right && top <= down) {
+            if (dir == 0) {
+                //l to right
+                for (int i = left; i <= right; i++) {
+                    result.add(matrix[top][i]);
+
                 }
-                bottom--;
+                top++;
+
             }
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
+
+            if (dir == 1) {
+                //top down
+                for (int i = top; i <= down; i++) {
+                    result.add(matrix[i][right]);
+                }
+                right--;
+
+            }
+
+            if (dir == 2) {
+                //right to  left
+                for (int i = right; i >= left; i--) {
+                    result.add(matrix[down][i]);
+                }
+                down--;
+
+            }
+
+            if (dir == 3) {
+                //down to top
+                for (int i = down; i >= top; i--) {
                     result.add(matrix[i][left]);
                 }
                 left++;
             }
+            dir = (dir + 1) % 4;
+
         }
         return result;
-        
     }
 }
