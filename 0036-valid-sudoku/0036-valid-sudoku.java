@@ -11,9 +11,12 @@ class Solution {
                 String columnKey = String.valueOf(board[i][j]) + "_col_" + j;
                 String subBox = String.valueOf(board[i][j]) + (i / 3) + "_box_" + (j / 3);
 
-                if (!set.contains(rowKey) || !set.contains(columnKey) || !set.contains(subBox)) {
+                if (set.contains(rowKey) || set.contains(columnKey) || set.contains(subBox)) {
                     return false;
                 }
+                set.add(rowKey);
+                set.add(columnKey);
+                set.add(subBox);
             }
         }
         return true;
