@@ -16,6 +16,7 @@ class Solution {
         ListNode ptr1 = list1;
         ListNode ptr2 = list2;
 
+        //won't work if while (ptr1 != null || ptr2 != null) {
         while (ptr1 != null && ptr2 != null) {
 
             if (ptr1.val < ptr2.val) {
