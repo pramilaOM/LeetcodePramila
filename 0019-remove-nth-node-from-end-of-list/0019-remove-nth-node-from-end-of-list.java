@@ -9,24 +9,40 @@
  * }
  */
 class Solution {
+    //2 pass
+    private int lengthLinkedList(ListNode head) {
+        int l = 0;
+        while (head != null) {
+            l++;
+            head = head.next;
+        }
+        return l;
+    }
+
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        int length = lengthLinkedList(head);
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode first = dummy;
-        ListNode second = dummy;
-
-        for (int i = 0; i < n + 1; i++) {
-            first = first.next;
+        if (length == n) {
+            ListNode temp = head.next;
+            head = null;
+            return temp;
         }
 
-        while (first != null) {
-            first = first.next;
-            second = second.next;
+        ListNode temp = head;
+        ListNode prev = null;
+        int travel = length - n;
+
+        while (travel-- > 0) {
+            prev = temp;
+            temp = temp.next;
         }
 
-        second.next = second.next.next;
-        return dummy.next;
+        if (prev != null) {
+            prev.next = temp.next;
+        }
+
+        temp = null;
+        return head;
 
     }
 }
