@@ -11,18 +11,29 @@
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
 
-        ListNode dummy = new ListNode(0);
+        if (head == null || head.next == null)
+            return head;
+
+        ListNode dummy = new ListNode(Integer.MIN_VALUE);
         dummy.next = head;
+
+        ListNode it = head;
         ListNode prev = dummy;
-        while (prev.next != null && prev.next.next != null) {
-            if (prev.next.val == prev.next.next.val) {
-                int duplicate = prev.next.val;
-                while (prev.next != null && prev.next.val == duplicate) {
-                    prev.next = prev.next.next;
-                }
-            } else {
-                prev = prev.next;
+
+        while (it != null && it.next != null) {
+            boolean foundDuplication = false;
+            while (it != null && it.next != null && it.val == it.next.val) {
+                foundDuplication = true;
+                it = it.next;
             }
+
+            if (!foundDuplication) {
+                prev = prev.next;
+            } else {
+                prev.next = it.next;
+            }
+
+            it = it.next;
         }
         return dummy.next;
 
