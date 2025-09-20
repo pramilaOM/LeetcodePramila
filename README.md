@@ -205,6 +205,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pramilaOM/LeetcodePramila/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramilaOM/LeetcodePramila/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -374,6 +376,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -929,6 +932,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -944,6 +948,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/pramilaOM/LeetcodePramila/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pramilaOM/LeetcodePramila/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1170,6 +1175,7 @@
 | [2429-design-a-food-rating-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
 | ------- |
