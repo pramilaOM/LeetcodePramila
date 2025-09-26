@@ -95,6 +95,7 @@
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0679-24-game) |
@@ -337,6 +338,7 @@
 | [0443-string-compression](https://github.com/pramilaOM/LeetcodePramila/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/pramilaOM/LeetcodePramila/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pramilaOM/LeetcodePramila/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -368,6 +370,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
+| [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -404,6 +407,7 @@
 | [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
@@ -743,6 +747,7 @@
 | [0502-ipo](https://github.com/pramilaOM/LeetcodePramila/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pramilaOM/LeetcodePramila/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pramilaOM/LeetcodePramila/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
