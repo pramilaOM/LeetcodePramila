@@ -106,6 +106,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
+| [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0898-transpose-matrix) |
@@ -535,6 +536,7 @@
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
@@ -1293,6 +1295,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pramilaOM/LeetcodePramila/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String Matching
