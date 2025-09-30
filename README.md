@@ -167,6 +167,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
@@ -553,6 +554,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/2571-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pramilaOM/LeetcodePramila/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -676,6 +678,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pramilaOM/LeetcodePramila/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
@@ -1130,6 +1133,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pramilaOM/LeetcodePramila/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
