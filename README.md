@@ -131,6 +131,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
 | [1319-unique-number-of-occurrences](https://github.com/pramilaOM/LeetcodePramila/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -273,6 +274,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pramilaOM/LeetcodePramila/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/pramilaOM/LeetcodePramila/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1502-construct-k-palindrome-strings) |
@@ -434,6 +436,7 @@
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pramilaOM/LeetcodePramila/tree/master/1253-sort-the-matrix-diagonally) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pramilaOM/LeetcodePramila/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
@@ -652,6 +655,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pramilaOM/LeetcodePramila/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
