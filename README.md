@@ -685,6 +685,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/pramilaOM/LeetcodePramila/tree/master/3396-valid-word) |
@@ -773,6 +774,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pramilaOM/LeetcodePramila/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pramilaOM/LeetcodePramila/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -979,6 +981,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pramilaOM/LeetcodePramila/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1416,5 +1419,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
