@@ -1,37 +1,23 @@
 class Solution {
     public int romanToInt(String s) {
-        // ⏱ Time Complexity: O(n)
-        // — One pass through the string of length n
+        HashMap<Character, Integer> map = new HashMap<Character, Integer>();
+        map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
 
-        // \U0001f9e0 Space Complexity: O(1)
-        // — Only a fixed-size array of 26 characters (no dynamic structures)
-
-        // Map each Roman numeral to its integer value
-        int[] values = new int[26]; // 'A' to 'Z'
-        values['I' - 'A'] = 1;
-        values['V' - 'A'] = 5;
-        values['X' - 'A'] = 10;
-        values['L' - 'A'] = 50;
-        values['C' - 'A'] = 100;
-        values['D' - 'A'] = 500;
-        values['M' - 'A'] = 1000;
-
-        int total = 0;
-        int prev = 0;
-
-        // Traverse from right to left
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int curr = values[s.charAt(i) - 'A'];
-
-            if (curr < prev) {
-                total -= curr; // Subtractive case
+        int n = s.length();
+        int result = map.get(s.charAt(n - 1));
+        for (int i = n - 2; i >= 0; i--) {
+            if (map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) {
+                result = result - map.get(s.charAt(i));
             } else {
-                total += curr; // Normal addition
+                result = result + map.get(s.charAt(i));
             }
-
-            prev = curr;
         }
-
-        return total;
+        return result;
     }
 }
