@@ -1,19 +1,15 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        //Two pointers approach optimistic 
-        //TC O(N)
-        //SC O(1)
 
-        int write = 1;
-        for(int read = 1;read<nums.length;read++){
-            if(nums[read] != nums[read-1]){
-                nums[write] = nums[read];
-                write++;
+        int i = 0, j = 1;
+        int n = nums.length;
+        while (j < n) {
+            if (nums[i] != nums[j]) {
+                i++;
+                nums[i] = nums[j];
             }
+            j++;
         }
-        for(int n : nums){
-            System.out.print(n+" ");
-        }
-        return write;
+        return i + 1;
     }
 }
