@@ -1,14 +1,15 @@
 class Solution {
     List<List<Integer>> result = new ArrayList<>();
+
     public List<List<Integer>> threeSum(int[] nums) {
-       
+
         int n = nums.length;
 
         if (n < 3) {
             return new ArrayList<>();
         }
         Arrays.sort(nums);
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n-3; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
@@ -20,7 +21,7 @@ class Solution {
 
     }
 
-   void twoSum(int[] nums, int target, int i, int j) {
+    void twoSum(int[] nums, int target, int i, int j) {
         while (i < j) {
             if ((nums[i] + nums[j]) > target) {
                 j--;
