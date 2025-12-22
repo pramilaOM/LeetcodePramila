@@ -9,7 +9,7 @@ class Solution {
             return new ArrayList<>();
         }
         Arrays.sort(nums);
-        for (int i = 0; i < n-3; i++) {
+        for (int i = 0; i <= n-3; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
