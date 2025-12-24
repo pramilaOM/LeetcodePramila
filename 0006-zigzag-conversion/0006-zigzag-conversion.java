@@ -1,28 +1,29 @@
 class Solution {
     public String convert(String s, int numRows) {
+        String[] ans = new String[numRows];
 
-        if (numRows == 1 || s.length() <= numRows) {
-            return s;
-        }
-
-        StringBuilder[] row = new StringBuilder[numRows];
         for (int i = 0; i < numRows; i++) {
-            row[i] = new StringBuilder();
+            ans[i] = "";
+
         }
 
-        int currRow = 0;
-        boolean isDown = false;
-        for (char c : s.toCharArray()) {
-            row[currRow].append(c);
-            if(currRow ==0 || currRow == numRows-1){
-                isDown = !isDown;
+        int i = 0;
+        while (i < s.length()) {
+            for (int index = 0; index < numRows && i < s.length(); index++) {
+                ans[index] = ans[index] + s.charAt(i++);
             }
-            currRow += isDown ? 1 : -1;
+
+            for (int index = numRows - 2; index > 0  && i < s.length(); index--) {
+                ans[index] = ans[index] + s.charAt(i++);
+            }
+
         }
-        StringBuilder result= new StringBuilder();
-        for(StringBuilder s1 : row){
-            result.append(s1);
-        } 
-        return result.toString();
+
+        String res = "";
+        for (String str : ans) {
+            res += str;
+        }
+
+        return res;
     }
 }
