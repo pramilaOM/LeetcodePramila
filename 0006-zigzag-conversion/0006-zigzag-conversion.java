@@ -9,7 +9,7 @@ class Solution {
 
         int i = 0;
         while (i < s.length()) {
-            for (int index = 0; index < numRows && i < s.length(); index++) {
+            for (int index = 0; index < numRows  && i < s.length(); index++) {
                 ans[index] = ans[index] + s.charAt(i++);
             }
 
