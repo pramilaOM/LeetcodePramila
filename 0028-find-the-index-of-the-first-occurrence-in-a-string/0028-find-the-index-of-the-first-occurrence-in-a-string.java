@@ -1,4 +1,5 @@
 class Solution {
+    //optimized
     public int strStr(String haystack, String needle) {
 
         if (needle.length() == 0)
