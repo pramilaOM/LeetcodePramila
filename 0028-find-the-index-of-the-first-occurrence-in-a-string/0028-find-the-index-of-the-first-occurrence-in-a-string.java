@@ -7,8 +7,10 @@ class Solution {
             while (index < n) {
                 if (haystack.charAt(i + index) != needle.charAt(index)) {
                     break;
+                }else{
+                     index++;
                 }
-                index++;
+               
 
             }
             if (index == n) {
