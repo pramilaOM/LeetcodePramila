@@ -690,6 +690,7 @@
 | [2429-design-a-food-rating-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/pramilaOM/LeetcodePramila/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -857,6 +858,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pramilaOM/LeetcodePramila/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/2571-find-the-pivot-integer) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/pramilaOM/LeetcodePramila/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pramilaOM/LeetcodePramila/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
