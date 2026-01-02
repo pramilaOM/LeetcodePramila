@@ -120,6 +120,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/pramilaOM/LeetcodePramila/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -274,6 +275,7 @@
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/pramilaOM/LeetcodePramila/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pramilaOM/LeetcodePramila/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
