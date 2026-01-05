@@ -161,6 +161,7 @@
 | [2023-design-movie-rental-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -824,6 +825,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/pramilaOM/LeetcodePramila/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
+| [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -968,6 +970,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
