@@ -277,6 +277,7 @@
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -1129,6 +1130,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1179,6 +1181,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1260,6 +1263,7 @@
 | [0794-swim-in-rising-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/pramilaOM/LeetcodePramila/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/pramilaOM/LeetcodePramila/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pramilaOM/LeetcodePramila/tree/master/1036-rotting-oranges) |
@@ -1320,6 +1324,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/pramilaOM/LeetcodePramila/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/pramilaOM/LeetcodePramila/tree/master/0871-keys-and-rooms) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/pramilaOM/LeetcodePramila/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
