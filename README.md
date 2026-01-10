@@ -665,6 +665,7 @@
 | [0520-detect-capital](https://github.com/pramilaOM/LeetcodePramila/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/pramilaOM/LeetcodePramila/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/pramilaOM/LeetcodePramila/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
@@ -769,6 +770,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pramilaOM/LeetcodePramila/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pramilaOM/LeetcodePramila/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/pramilaOM/LeetcodePramila/tree/master/0806-domino-and-tromino-tiling) |
