@@ -40,6 +40,7 @@
 | [0078-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -755,6 +756,7 @@
 | [0064-minimum-path-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pramilaOM/LeetcodePramila/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0120-triangle) |
@@ -910,6 +912,7 @@
 | [0020-valid-parentheses](https://github.com/pramilaOM/LeetcodePramila/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/pramilaOM/LeetcodePramila/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pramilaOM/LeetcodePramila/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -940,6 +943,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/pramilaOM/LeetcodePramila/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/pramilaOM/LeetcodePramila/tree/master/0937-online-stock-span) |
@@ -957,6 +961,7 @@
 | [0073-set-matrix-zeroes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pramilaOM/LeetcodePramila/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/pramilaOM/LeetcodePramila/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0212-word-search-ii) |
