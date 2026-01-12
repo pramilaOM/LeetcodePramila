@@ -137,6 +137,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/pramilaOM/LeetcodePramila/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/pramilaOM/LeetcodePramila/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -589,6 +590,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1284-four-divisors](https://github.com/pramilaOM/LeetcodePramila/tree/master/1284-four-divisors) |
+| [1395-minimum-time-visiting-all-points](https://github.com/pramilaOM/LeetcodePramila/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1402,6 +1404,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pramilaOM/LeetcodePramila/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/pramilaOM/LeetcodePramila/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String Matching
