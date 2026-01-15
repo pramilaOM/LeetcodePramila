@@ -199,6 +199,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -475,6 +476,7 @@
 | [2689-rearranging-fruits](https://github.com/pramilaOM/LeetcodePramila/tree/master/2689-rearranging-fruits) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
