@@ -200,6 +200,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -207,7 +208,6 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
-| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pramilaOM/LeetcodePramila/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -615,11 +615,11 @@
 | [2571-find-the-pivot-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/2571-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pramilaOM/LeetcodePramila/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/3279-alice-and-bob-playing-flower-game) |
-| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1413,9 +1413,9 @@
 | [0149-max-points-on-a-line](https://github.com/pramilaOM/LeetcodePramila/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pramilaOM/LeetcodePramila/tree/master/1395-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
-| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String Matching
 |  |
 | ------- |
