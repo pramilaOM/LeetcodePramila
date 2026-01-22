@@ -234,6 +234,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
 | [3763-separate-squares-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3763-separate-squares-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pramilaOM/LeetcodePramila/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pramilaOM/LeetcodePramila/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
@@ -328,6 +329,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pramilaOM/LeetcodePramila/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
@@ -533,6 +535,7 @@
 | [2636-maximum-subsequence-score](https://github.com/pramilaOM/LeetcodePramila/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -754,6 +757,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -1112,6 +1116,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pramilaOM/LeetcodePramila/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1310,6 +1315,7 @@
 | [2023-design-movie-rental-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2023-design-movie-rental-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2429-design-a-food-rating-system) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
@@ -1390,6 +1396,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pramilaOM/LeetcodePramila/tree/master/0146-lru-cache) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
 |  |
 | ------- |
