@@ -538,6 +538,7 @@
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1416,6 +1417,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1500,4 +1502,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
