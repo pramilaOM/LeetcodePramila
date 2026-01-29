@@ -205,6 +205,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pramilaOM/LeetcodePramila/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -725,6 +726,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/pramilaOM/LeetcodePramila/tree/master/3396-valid-word) |
@@ -1420,6 +1422,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
@@ -1508,5 +1511,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
