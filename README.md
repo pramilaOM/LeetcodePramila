@@ -106,6 +106,7 @@
 | [0724-find-pivot-index](https://github.com/pramilaOM/LeetcodePramila/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/pramilaOM/LeetcodePramila/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pramilaOM/LeetcodePramila/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/pramilaOM/LeetcodePramila/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0777-toeplitz-matrix) |
@@ -419,6 +420,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/pramilaOM/LeetcodePramila/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1046-max-consecutive-ones-iii) |
