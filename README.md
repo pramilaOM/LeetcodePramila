@@ -203,6 +203,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pramilaOM/LeetcodePramila/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -327,6 +328,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/pramilaOM/LeetcodePramila/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pramilaOM/LeetcodePramila/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -542,6 +544,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/pramilaOM/LeetcodePramila/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -935,6 +938,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/pramilaOM/LeetcodePramila/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pramilaOM/LeetcodePramila/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pramilaOM/LeetcodePramila/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
