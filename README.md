@@ -250,6 +250,7 @@
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -837,6 +838,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pramilaOM/LeetcodePramila/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
