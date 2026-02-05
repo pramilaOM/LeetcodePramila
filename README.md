@@ -230,6 +230,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pramilaOM/LeetcodePramila/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-transformed-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pramilaOM/LeetcodePramila/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -772,6 +773,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3651-transformed-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3651-transformed-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
