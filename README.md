@@ -252,6 +252,7 @@
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pramilaOM/LeetcodePramila/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -946,6 +948,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
