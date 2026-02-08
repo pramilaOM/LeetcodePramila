@@ -89,6 +89,7 @@
 | [0399-evaluate-division](https://github.com/pramilaOM/LeetcodePramila/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pramilaOM/LeetcodePramila/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pramilaOM/LeetcodePramila/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pramilaOM/LeetcodePramila/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/pramilaOM/LeetcodePramila/tree/master/0456-132-pattern) |
@@ -293,6 +294,7 @@
 | [0389-find-the-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
