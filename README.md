@@ -534,6 +534,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -876,6 +877,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pramilaOM/LeetcodePramila/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/pramilaOM/LeetcodePramila/tree/master/1018-largest-perimeter-triangle) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1207,6 +1209,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
@@ -1219,6 +1222,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramilaOM/LeetcodePramila/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pramilaOM/LeetcodePramila/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1259,6 +1263,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Merge Sort
@@ -1404,6 +1409,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/pramilaOM/LeetcodePramila/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pramilaOM/LeetcodePramila/tree/master/1207-delete-nodes-and-return-forest) |
+| [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
