@@ -257,6 +257,7 @@
 | [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +353,7 @@
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramilaOM/LeetcodePramila/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -943,6 +946,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pramilaOM/LeetcodePramila/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1526,6 +1530,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Brainteaser
 |  |
 | ------- |
