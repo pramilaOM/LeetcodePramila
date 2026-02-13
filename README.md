@@ -354,6 +354,7 @@
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramilaOM/LeetcodePramila/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4056-longest-balanced-substring-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -770,6 +771,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramilaOM/LeetcodePramila/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4056-longest-balanced-substring-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4056-longest-balanced-substring-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -947,6 +949,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4056-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
