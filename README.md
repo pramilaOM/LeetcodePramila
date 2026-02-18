@@ -1082,6 +1082,7 @@
 | [0389-find-the-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
