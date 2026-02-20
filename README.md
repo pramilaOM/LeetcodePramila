@@ -486,6 +486,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/pramilaOM/LeetcodePramila/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
+| [0763-special-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0763-special-binary-string) |
 | [0843-binary-trees-with-factors](https://github.com/pramilaOM/LeetcodePramila/tree/master/0843-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/pramilaOM/LeetcodePramila/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
@@ -538,6 +539,7 @@
 | [0191-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/0347-top-k-frequent-elements) |
+| [0763-special-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0763-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pramilaOM/LeetcodePramila/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/pramilaOM/LeetcodePramila/tree/master/1285-balance-a-binary-search-tree) |
@@ -721,6 +723,7 @@
 | [0686-repeated-string-match](https://github.com/pramilaOM/LeetcodePramila/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0763-special-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/pramilaOM/LeetcodePramila/tree/master/0768-partition-labels) |
 | [0935-orderly-queue](https://github.com/pramilaOM/LeetcodePramila/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/pramilaOM/LeetcodePramila/tree/master/0981-delete-columns-to-make-sorted) |
