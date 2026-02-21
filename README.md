@@ -633,6 +633,7 @@
 | [0382-linked-list-random-node](https://github.com/pramilaOM/LeetcodePramila/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0679-24-game) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/pramilaOM/LeetcodePramila/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/pramilaOM/LeetcodePramila/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0867-new-21-game) |
@@ -1088,6 +1089,7 @@
 | [0401-binary-watch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
