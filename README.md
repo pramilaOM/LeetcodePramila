@@ -1090,6 +1090,7 @@
 | [0645-set-mismatch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/pramilaOM/LeetcodePramila/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
