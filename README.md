@@ -743,6 +743,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pramilaOM/LeetcodePramila/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pramilaOM/LeetcodePramila/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/pramilaOM/LeetcodePramila/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -795,6 +796,7 @@
 | [0898-transpose-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/pramilaOM/LeetcodePramila/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1099,6 +1101,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pramilaOM/LeetcodePramila/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
