@@ -655,6 +655,7 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/pramilaOM/LeetcodePramila/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pramilaOM/LeetcodePramila/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
@@ -798,6 +799,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/pramilaOM/LeetcodePramila/tree/master/1642-water-bottles) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1103,6 +1105,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pramilaOM/LeetcodePramila/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pramilaOM/LeetcodePramila/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
