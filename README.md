@@ -751,6 +751,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pramilaOM/LeetcodePramila/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pramilaOM/LeetcodePramila/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/pramilaOM/LeetcodePramila/tree/master/1666-make-the-string-great) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pramilaOM/LeetcodePramila/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -801,6 +802,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/pramilaOM/LeetcodePramila/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/pramilaOM/LeetcodePramila/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1328,6 +1330,7 @@
 | [0326-power-of-three](https://github.com/pramilaOM/LeetcodePramila/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pramilaOM/LeetcodePramila/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/0394-decode-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
