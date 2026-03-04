@@ -152,6 +152,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pramilaOM/LeetcodePramila/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/pramilaOM/LeetcodePramila/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pramilaOM/LeetcodePramila/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -159,7 +160,6 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
-| [1704-special-positions-in-a-binary-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
@@ -1074,9 +1074,9 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pramilaOM/LeetcodePramila/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
-| [1704-special-positions-in-a-binary-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
