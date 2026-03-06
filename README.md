@@ -760,6 +760,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/pramilaOM/LeetcodePramila/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/pramilaOM/LeetcodePramila/tree/master/1894-merge-strings-alternately) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pramilaOM/LeetcodePramila/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
