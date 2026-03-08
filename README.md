@@ -175,6 +175,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
+| [2107-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pramilaOM/LeetcodePramila/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -333,6 +334,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2107-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pramilaOM/LeetcodePramila/tree/master/2413-smallest-number-in-infinite-set) |
@@ -766,6 +768,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pramilaOM/LeetcodePramila/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2107-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1481,6 +1484,7 @@
 | [0212-word-search-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/pramilaOM/LeetcodePramila/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/0679-24-game) |
+| [2107-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pramilaOM/LeetcodePramila/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pramilaOM/LeetcodePramila/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
