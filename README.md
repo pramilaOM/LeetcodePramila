@@ -1122,6 +1122,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pramilaOM/LeetcodePramila/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/pramilaOM/LeetcodePramila/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1054-complement-of-base-10-integer](https://github.com/pramilaOM/LeetcodePramila/tree/master/1054-complement-of-base-10-integer) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pramilaOM/LeetcodePramila/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/pramilaOM/LeetcodePramila/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pramilaOM/LeetcodePramila/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
