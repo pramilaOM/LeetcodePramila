@@ -465,6 +465,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -951,6 +952,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pramilaOM/LeetcodePramila/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1620,8 +1622,17 @@
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Rolling Hash
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
