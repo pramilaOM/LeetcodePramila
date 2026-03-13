@@ -230,6 +230,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -460,6 +461,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pramilaOM/LeetcodePramila/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3454-separate-squares-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3763-separate-squares-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3790-fruits-into-baskets-ii) |
@@ -578,6 +580,7 @@
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
@@ -676,6 +679,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pramilaOM/LeetcodePramila/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/3462-vowels-game-in-a-string) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -948,6 +952,7 @@
 | [3351-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramilaOM/LeetcodePramila/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/pramilaOM/LeetcodePramila/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
