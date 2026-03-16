@@ -170,6 +170,7 @@
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1980-find-unique-binary-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -509,6 +510,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pramilaOM/LeetcodePramila/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -569,6 +571,7 @@
 | [0794-swim-in-rising-water](https://github.com/pramilaOM/LeetcodePramila/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/pramilaOM/LeetcodePramila/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/pramilaOM/LeetcodePramila/tree/master/1917-maximum-average-pass-ratio) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2023-design-movie-rental-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -667,6 +670,7 @@
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pramilaOM/LeetcodePramila/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/pramilaOM/LeetcodePramila/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pramilaOM/LeetcodePramila/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -974,6 +978,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/pramilaOM/LeetcodePramila/tree/master/1833-find-the-highest-altitude) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2102-find-the-middle-index-in-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/pramilaOM/LeetcodePramila/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
@@ -1099,6 +1104,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
