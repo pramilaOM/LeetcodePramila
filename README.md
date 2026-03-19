@@ -233,6 +233,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pramilaOM/LeetcodePramila/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -993,6 +994,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pramilaOM/LeetcodePramila/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pramilaOM/LeetcodePramila/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pramilaOM/LeetcodePramila/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3618-find-the-original-typed-string-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -1117,6 +1119,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pramilaOM/LeetcodePramila/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/pramilaOM/LeetcodePramila/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pramilaOM/LeetcodePramila/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
