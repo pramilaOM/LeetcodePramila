@@ -261,6 +261,7 @@
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
@@ -539,6 +540,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pramilaOM/LeetcodePramila/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
@@ -1124,6 +1126,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pramilaOM/LeetcodePramila/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
