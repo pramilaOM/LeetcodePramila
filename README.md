@@ -1662,6 +1662,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
