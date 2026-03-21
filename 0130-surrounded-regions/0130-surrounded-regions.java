@@ -5,8 +5,6 @@ class Solution {
 
         int row = board.length;
         int column = board[0].length;
-
-        // 1. Mark boundary-connected 'O' with '*'
         for (int i = 0; i < row; i++) {
             if (board[i][0] == 'O')
                 boundaryDFS(board, i, 0);
@@ -21,7 +19,6 @@ class Solution {
                 boundaryDFS(board, row - 1, j);
         }
 
-        // 2. Flip inner 'O' to 'X' and '*' back to 'O'
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < column; j++) {
                 if (board[i][j] == 'O') {
@@ -38,7 +35,7 @@ class Solution {
             return;
         }
 
-        board[i][j] = '*'; // mark as safe
+        board[i][j] = '*';
 
         boundaryDFS(board, i - 1, j);
         boundaryDFS(board, i + 1, j);
