@@ -266,6 +266,7 @@
 | [3952-trionic-array-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pramilaOM/LeetcodePramila/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/pramilaOM/LeetcodePramila/tree/master/3973-flip-square-submatrix-vertically) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -431,6 +432,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pramilaOM/LeetcodePramila/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/pramilaOM/LeetcodePramila/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -1128,6 +1130,7 @@
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3973-flip-square-submatrix-vertically](https://github.com/pramilaOM/LeetcodePramila/tree/master/3973-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
