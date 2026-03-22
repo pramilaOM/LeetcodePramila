@@ -167,6 +167,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramilaOM/LeetcodePramila/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pramilaOM/LeetcodePramila/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pramilaOM/LeetcodePramila/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/pramilaOM/LeetcodePramila/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/1980-find-unique-binary-string) |
@@ -1115,6 +1116,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pramilaOM/LeetcodePramila/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pramilaOM/LeetcodePramila/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
