@@ -3,11 +3,8 @@ class Solution {
         List<List<String>> result = new ArrayList<>();
         char[][] board = new char[n][n];
         
-        // Initialize board with '.'
         for (char[] row : board)
             Arrays.fill(row, '.');
-
-        // Start backtracking from row 0
         backtrack(0, board, result, new HashSet<>(), new HashSet<>(), new HashSet<>());
         return result;
     }
@@ -17,7 +14,6 @@ class Solution {
         int n = board.length;
 
         if (row == n) {
-            // Found a valid board
             List<String> solution = new ArrayList<>();
             for (char[] r : board) {
                 solution.add(new String(r));
@@ -31,18 +27,14 @@ class Solution {
             int ad = row + col;
 
             if (cols.contains(col) || diag.contains(d) || antiDiag.contains(ad)) {
-                continue; // Conflict, skip
+                continue;
             }
-
-            // Place queen
             board[row][col] = 'Q';
             cols.add(col);
             diag.add(d);
             antiDiag.add(ad);
 
             backtrack(row + 1, board, result, cols, diag, antiDiag);
-
-            // Backtrack
             board[row][col] = '.';
             cols.remove(col);
             diag.remove(d);
