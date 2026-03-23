@@ -160,6 +160,7 @@
 | [1635-number-of-good-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1635-number-of-good-pairs) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pramilaOM/LeetcodePramila/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pramilaOM/LeetcodePramila/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/pramilaOM/LeetcodePramila/tree/master/1813-maximum-erasure-value) |
@@ -894,6 +895,7 @@
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pramilaOM/LeetcodePramila/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pramilaOM/LeetcodePramila/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/pramilaOM/LeetcodePramila/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1115,6 +1117,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pramilaOM/LeetcodePramila/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pramilaOM/LeetcodePramila/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pramilaOM/LeetcodePramila/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/1975-maximum-matrix-sum) |
