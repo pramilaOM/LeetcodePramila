@@ -1,17 +1,27 @@
+//https://www.youtube.com/watch?v=rYyn9Vc-dBQ
+
 class Solution {
     public boolean isPalindrome(String s) {
-        //myself
-        String withoutws = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-        int start = 0;
-        int end = withoutws.length()  - 1;
-        while (start < end) {
-            if (withoutws.charAt(start) == withoutws.charAt(end)) {
-                start++;
-                end--;
-            } else {
+        //two pointers
 
+        String fixedString = "";
+        for (char c : s.toCharArray()) {
+            if (Character.isDigit(c) || Character.isLetter(c)) {
+                fixedString += c;
+            }
+        }
+
+        fixedString = fixedString.toLowerCase();
+
+        int start = 0;
+        int end = fixedString.length() - 1;
+
+        while (start <= end) {
+            if (fixedString.charAt(start) != fixedString.charAt(end)) {
                 return false;
             }
+            start++;
+            end--;
         }
         return true;
     }
