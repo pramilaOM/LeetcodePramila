@@ -4,6 +4,7 @@ class Solution {
     public boolean isPalindrome(String s) {
         //two pointers
 
+        //Remove unwanted characters (spaces, punctuation, symbols).Keep only letters and digits fixedString = "AMANAPLANACANALPANAMA"
         String fixedString = "";
         for (char c : s.toCharArray()) {
             if (Character.isDigit(c) || Character.isLetter(c)) {
