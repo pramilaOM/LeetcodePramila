@@ -1,41 +1,41 @@
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
-
     public List<List<Integer>> threeSum(int[] nums) {
-
-        int n = nums.length;
-
-        if (n < 3) {
+        //https://www.youtube.com/watch?v=_cBWWebTVpI
+        //n1+n2+n3 =0 will give n2+n3 = -n1 (two sum problem)
+        if (nums.length < 3) {
             return new ArrayList<>();
         }
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
-        for (int i = 0; i <= n-3; i++) {
+
+        for (int i = 0; i < nums.length - 2; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            int n1 = nums[i];
-            int target = -n1;
-            twoSum(nums, target, i + 1, n - 1);
+            twoSum(nums, i + 1, result, -nums[i]);
         }
         return result;
 
     }
 
-    void twoSum(int[] nums, int target, int i, int j) {
-        while (i < j) {
-            if ((nums[i] + nums[j]) > target) {
-                j--;
-            } else if ((nums[i] + nums[j]) < target) {
-                i++;
-            } else {
-                while (i < j && nums[i] == nums[i + 1])
-                    i++;
-                while (i < j && nums[j] == nums[j - 1])
-                    j--;
-                List<Integer> triplet = Arrays.asList(-target, nums[i], nums[j]);
-                result.add(triplet);
-                i++;
-                j--;
+    void twoSum(int[] nums, int i, List<List<Integer>> result, int target){
+
+        int start = i, end = nums.length-1;
+        while(start < end){
+            if((nums[start] + nums[end]) > target){
+                end--;
+            }else if((nums[start] + nums[end]) < target){
+                start++;
+            }else{
+                result.add(Arrays.asList(-target,nums[start],nums[end]));
+                while(start <end && nums[start] == nums[start+1]){
+                    start++;
+                }
+                while(start<end && nums[end] == nums[end-1]){
+                    end--;
+                }
+                start++;
+                end--;
             }
         }
 
