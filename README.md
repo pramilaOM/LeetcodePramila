@@ -265,6 +265,7 @@
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
 | [3849-equal-sum-grid-partition-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pramilaOM/LeetcodePramila/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -368,6 +369,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pramilaOM/LeetcodePramila/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramilaOM/LeetcodePramila/tree/master/3827-implement-router) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramilaOM/LeetcodePramila/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1013,6 +1015,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pramilaOM/LeetcodePramila/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pramilaOM/LeetcodePramila/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3849-equal-sum-grid-partition-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/4056-longest-balanced-substring-ii) |
@@ -1140,6 +1143,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/pramilaOM/LeetcodePramila/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/pramilaOM/LeetcodePramila/tree/master/3797-design-spreadsheet) |
 | [3849-equal-sum-grid-partition-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
@@ -1415,6 +1419,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pramilaOM/LeetcodePramila/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3849-equal-sum-grid-partition-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
