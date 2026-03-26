@@ -11,7 +11,7 @@ class Solution {
             }
         }
 
-        fixedString = fixedString.toLowerCase();
+        fixedString = fixedString.toUpperCase();
 
         int start = 0;
         int end = fixedString.length() - 1;
