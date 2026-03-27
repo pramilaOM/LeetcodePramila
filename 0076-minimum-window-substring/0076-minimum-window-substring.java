@@ -1,58 +1,51 @@
 class Solution {
-    public static String minWindow(String s, String t) {
-        if (s == null || t == null || s.length() < t.length())
+    public String minWindow(String s, String t) {
+        //https://www.youtube.com/watch?v=3Bp3OVD1EGc
+
+        int n = s.length();
+
+        if (t.length() > n)
             return "";
 
-        // Step 1: Build frequency map for t
-        Map<Character, Integer> targetMap = new HashMap<>();
-        for (char c : t.toCharArray()) {
-            targetMap.put(c, targetMap.getOrDefault(c, 0) + 1);
+        Map<Character, Integer> map = new HashMap<>();
+
+        for (char ch : t.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        // Step 2: Initialize sliding window and tracking variables
-        Map<Character, Integer> windowMap = new HashMap<>();
-        int required = targetMap.size(); // number of unique characters required
-        int formed = 0; // number of unique characters that meet requirement
+        int requiedCount = t.length();
+        int i = 0, j = 0;
 
-        int left = 0, right = 0;
-        int minLen = Integer.MAX_VALUE;
-        int startIdx = 0; // to track start of min window
+        int minWindowSize = Integer.MAX_VALUE;
+        int start_i = 0;
 
-        // Step 3: Expand window with right pointer
-        while (right < s.length()) {
-            char c = s.charAt(right);
-            windowMap.put(c, windowMap.getOrDefault(c, 0) + 1);
+        while (j < n) {
+            char ch = s.charAt(j);
 
-            // If character is in t and meets required frequency
-            if (targetMap.containsKey(c) && windowMap.get(c).intValue() == targetMap.get(c).intValue()) {
-                formed++;
-            }
+            if (map.containsKey(ch) && map.get(ch) > 0)
+                requiedCount--;
 
-            // Step 4: Try to contract from the left while valid
-            while (formed == required) {
-                // Update minLen and startIdx if smaller window found
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    startIdx = left;
+            map.put(ch, map.getOrDefault(ch, 0) - 1);
+
+            while (requiedCount == 0) {
+                int currWindowSize = j - i + 1;
+
+                if (minWindowSize > currWindowSize) {
+                    minWindowSize = currWindowSize;
+                    start_i = i;
                 }
 
-                // Remove the leftmost character from window
-                char leftChar = s.charAt(left);
-                windowMap.put(leftChar, windowMap.get(leftChar) - 1);
+                char startChar = s.charAt(i);
+                map.put(startChar, map.getOrDefault(startChar, 0) + 1);
 
-                // If it's in target and below required frequency, decrease formed
-                if (targetMap.containsKey(leftChar) && windowMap.get(leftChar) < targetMap.get(leftChar)) {
-                    formed--;
+                if (map.containsKey(startChar) && map.get(startChar) > 0) {
+                    requiedCount++;
                 }
-
-                left++; // shrink window
+                i++;
             }
-
-            right++; // expand window
+            j++;
         }
+        return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
 
-        // Step 5: Return result
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(startIdx, startIdx + minLen);
     }
-
 }
