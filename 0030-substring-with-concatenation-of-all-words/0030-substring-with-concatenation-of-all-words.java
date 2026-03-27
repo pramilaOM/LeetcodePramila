@@ -1,6 +1,7 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-                List<Integer> result = new ArrayList<>();
+        //https://www.youtube.com/watch?v=taYRJf-M25I&t=186s
+        List<Integer> result = new ArrayList<>();
         if (s == null || s.length() == 0 || words == null || words.length == 0)
             return result;
 
