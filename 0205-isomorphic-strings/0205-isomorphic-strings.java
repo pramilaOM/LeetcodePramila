@@ -1,30 +1,27 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        //brute force
+        //https://www.youtube.com/watch?v=2ISNCDJEgqQ
+        //https://www.youtube.com/watch?v=j5FQ4xEP3wY
+        Map<Character, Character> mp1 = new HashMap<>();
+        Map<Character, Character> mp2 = new HashMap<>();
 
-        int n = s.length();
-        for (int i = 0; i < n; i++) {
-            char chS = s.charAt(i);
-            for (int j = i + 1; j < n; j++) {
-                if (s.charAt(j) == chS) {
-                    if (t.charAt(i) != t.charAt(j)) {
-                        return false;
-                    }
-                }
-            }
-        }
+        int m = s.length();
 
-        for (int i = 0; i < n; i++) {
-            char chT = t.charAt(i);
-            for (int j = i + 1; j < n; j++) {
-                if (t.charAt(j) == chT) {
-                    if (s.charAt(i) != s.charAt(j)) {
-                        return false;
-                    }
-                }
+        for (int i = 0; i < m; i++) {
+
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+
+            if ((mp1.containsKey(ch1) && mp1.get(ch1) != ch2) ||
+                    (mp2.containsKey(ch2) && mp2.get(ch2) != ch1)) {
+                return false;
             }
+
+            mp1.put(ch1, ch2);
+            mp2.put(ch2, ch1);
         }
 
         return true;
+
     }
 }
