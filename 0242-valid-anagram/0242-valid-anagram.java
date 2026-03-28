@@ -1,12 +1,19 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         //https://www.youtube.com/watch?v=1tmEKyRAMuY
-        char[] sChars = s.toCharArray();
-        char[] tChars = t.toCharArray();
-        
-        Arrays.sort(sChars);
-        Arrays.sort(tChars);
-        
-        return Arrays.equals(sChars, tChars);
+        int[] count = new int[26];
+
+        for (char ch : s.toCharArray()) {
+            count[ch - 'a']++;
+        }
+
+        for (char ch : t.toCharArray()) {
+            count[ch - 'a']--;
+        }
+
+        // Check if all elements in the array are 0
+        boolean allZeros = Arrays.stream(count).allMatch(element -> element == 0);
+
+        return allZeros;
     }
 }
