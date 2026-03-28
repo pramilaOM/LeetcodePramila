@@ -1,24 +1,36 @@
 class Solution {
+    public int operate(int a, int b, String s) {
+        if (s.equals("+"))
+            return a + b;
+
+        if (s.equals("-"))
+            return a - b;
+
+        if (s.equals("*"))
+            return (int) ((long) a * (long) b);
+
+        if (s.equals("/"))
+            return a / b;
+
+        return -1;
+    }
+
     public int evalRPN(String[] tokens) {
-        Stack<Integer> stack = new Stack<>();
-        Map<String, BiFunction<Integer, Integer, Integer>> mp = new HashMap<>();
-        mp.put("+", (a, b) -> a + b);
-        mp.put("-", (a, b) -> a - b);
-        mp.put("*", (a, b) -> a * b);
-        mp.put("/", (a, b) -> a / b);
-        for (String token : tokens) {
-            if (token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/")) {
-                int b = stack.pop();
+        Stack<Integer> st = new Stack<>();
+        int result = 0;
 
-                int a = stack.pop();
+        for (String s : tokens) {
+            if (s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/")) {
+                int b = st.pop();
+                int a = st.pop();
 
-                int result = mp.get(token).apply(a, b);
-                stack.push(result);
+                result = operate(a, b, s);
+                st.push(result);
             } else {
-                stack.push(Integer.parseInt(token));
+                st.push(Integer.parseInt(s));
             }
         }
 
-        return stack.peek();
+        return st.pop();
     }
 }
