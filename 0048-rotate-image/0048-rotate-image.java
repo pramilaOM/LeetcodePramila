@@ -1,30 +1,28 @@
 class Solution {
     public void rotate(int[][] matrix) {
-
-        int m = matrix.length;
-        int n = m;//row column both are same
-        //transpose
-
-        for (int i = 0; i < m; i++) {
-            for (int j = i; j < n; j++) {
+        //https://www.youtube.com/watch?v=I48Z8QlQH8c
+        int N = matrix.length;
+        
+        //find transpose
+        for(int i = 0; i < N; i++) {
+            for(int j = i; j < N; j++) {
                 int temp = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
                 matrix[j][i] = temp;
             }
         }
-
-        //reverse
-
-        for (int i = 0; i < n; i++) {
-            int l = 0, r = n - 1;
-            while (l < r) {
-                int temp = matrix[i][l];
-                matrix[i][l] = matrix[i][r];
-                matrix[i][r] = temp;
-                l++;
-                r--;
+        
+        //flip horizontally - For clock wise rotation
+        for(int i = 0; i < N; i++) {
+            int left = 0, right = N - 1;
+            while(left < right) {
+                int temp = matrix[i][left];
+                matrix[i][left] = matrix[i][right];
+                matrix[i][right] = temp;
+                left++;
+                right--;
             }
-
         }
+        
     }
 }
