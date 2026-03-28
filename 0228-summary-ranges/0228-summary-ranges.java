@@ -11,12 +11,10 @@ class Solution {
 
             int start = nums[i];
 
-            // extend the range
             while (i + 1 < n && nums[i] + 1 == nums[i + 1]) {
                 i++;
             }
 
-            // check if it's a range or single number
             if (start != nums[i]) {
                 result.add(start + "->" + nums[i]);
             } else {
