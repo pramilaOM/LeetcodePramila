@@ -1694,6 +1694,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pramilaOM/LeetcodePramila/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pramilaOM/LeetcodePramila/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
