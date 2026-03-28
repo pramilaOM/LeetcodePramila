@@ -1,24 +1,26 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String[] words = s.split(" ");
+        //https://www.youtube.com/watch?v=n0cn5tJwkaE
+        //https://www.youtube.com/watch?v=b_pNf56VIqY
+        String[] temp = s.split(" ");
         int n = pattern.length();
 
-        if (words.length != n)
+        if (temp.length != n) {
             return false;
+        }
 
-        Map<Character, Integer> charToIndex = new HashMap<>();
-        Map<String, Integer> wordToIndex = new HashMap<>();
+        HashMap<String, Character> map = new HashMap<>();
+        HashSet<Character> used = new HashSet<>();
 
         for (int i = 0; i < n; i++) {
-            char ch = pattern.charAt(i);
-            String word = words[i];
-
-            if (!Objects.equals(charToIndex.getOrDefault(ch, 0), wordToIndex.getOrDefault(word, 0))) {
+            if (!map.containsKey(temp[i]) && !used.contains(pattern.charAt(i))) {
+                used.add(pattern.charAt(i));
+                map.put(temp[i], pattern.charAt(i));
+            } else if (!map.containsKey(temp[i]) || map.get(temp[i]) != pattern.charAt(i)) {
                 return false;
             }
-            charToIndex.put(ch, i + 1);
-            wordToIndex.put(word, i + 1);
         }
+
         return true;
     }
 }
