@@ -1,4 +1,5 @@
 class Solution {
+    //https://www.youtube.com/watch?v=BM-bu4tJz7U
     public int operate(int a, int b, String s) {
         if (s.equals("+"))
             return a + b;
