@@ -1,51 +1,64 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
+        //https://www.youtube.com/watch?v=73j2ipxR958
+        List<Integer> result = new ArrayList<>();
+
+        if (matrix.length == 0)
+            return result;
+
         int m = matrix.length;
         int n = matrix[0].length;
 
-        int top = 0, left = 0, down = m - 1, right = n - 1;
-        List<Integer> result = new ArrayList<>();
-        int dir = 0;
+        int top = 0;
+        int down = m - 1;
+        int left = 0;
+        int right = n - 1;
 
-        while (left <= right && top <= down) {
-            if (dir == 0) {
-                //l to right
+        int id = 0;
+
+        // id:
+        // 0 -> left to right
+        // 1 -> top to down
+        // 2 -> right to left
+        // 3 -> down to top
+
+        while (top <= down && left <= right) {
+
+            // left to right
+            if (id == 0) {
                 for (int i = left; i <= right; i++) {
                     result.add(matrix[top][i]);
-
                 }
                 top++;
-
             }
 
-            if (dir == 1) {
-                //top down
+            // top to down
+            if (id == 1) {
                 for (int i = top; i <= down; i++) {
                     result.add(matrix[i][right]);
                 }
                 right--;
-
             }
 
-            if (dir == 2) {
-                //right to  left
+            // right to left
+            if (id == 2) {
                 for (int i = right; i >= left; i--) {
                     result.add(matrix[down][i]);
                 }
                 down--;
-
             }
 
-            if (dir == 3) {
-                //down to top
+            // down to top
+            if (id == 3) {
                 for (int i = down; i >= top; i--) {
                     result.add(matrix[i][left]);
                 }
                 left++;
             }
-            dir = (dir + 1) % 4;
 
+            id = (id + 1) % 4;
         }
+
         return result;
     }
 }
