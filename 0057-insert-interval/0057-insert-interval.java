@@ -1,6 +1,7 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        int i = 0;
+        //https://www.youtube.com/watch?v=XXaVIDIbUn4
+          int i = 0;
         List<int[]> result = new ArrayList<>();
         int n = intervals.length;
 
@@ -10,16 +11,19 @@ class Solution {
             } else if (intervals[i][0] > newInterval[1]) {
                 break;
             } else {
+                // Merge the intervals and check further
                 newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
                 newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
             }
             i++;
         }
+
         result.add(newInterval);
         while (i < n) {
             result.add(intervals[i]);
             i++;
         }
+
         return result.toArray(new int[result.size()][]);
     }
 }
