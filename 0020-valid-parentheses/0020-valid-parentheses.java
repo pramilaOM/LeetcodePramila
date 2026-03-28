@@ -1,29 +1,19 @@
 class Solution {
     public boolean isValid(String s) {
         //https://www.youtube.com/watch?v=3ssh_mk4LqY
-         Stack<Character> st = new Stack<>();
+        Stack<Character> st = new Stack<>();
 
         for (char ch : s.toCharArray()) {
-            if (st.isEmpty() || ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
-                continue;
-            }
-
-            if (ch == ')') {
-                if (st.peek() == '(')
-                    st.pop();
-                else
-                    return false;
-            } else if (ch == '}') {
-                if (st.peek() == '{')
-                    st.pop();
-                else
-                    return false;
-            } else if (ch == ']') {
-                if (st.peek() == '[')
-                    st.pop();
-                else
-                    return false;
+            if (ch == '(') {
+                st.push(')');
+            } else if (ch == '{') {
+                st.push('}');
+            } else if (ch == '[') {
+                st.push(']');
+            } else if (st.isEmpty() || st.peek() != ch) {
+                return false;
+            } else {
+                st.pop();
             }
         }
 
