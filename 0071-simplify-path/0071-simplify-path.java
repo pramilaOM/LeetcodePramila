@@ -2,7 +2,7 @@ class Solution {
     public String simplifyPath(String path) {
         //https://www.youtube.com/watch?v=ZV-Hi1e1KL8
 
-        Stack<String> st = new Stack<>();
+        List<String> st = new ArrayList<>();
         
         String[] tokens = path.split("/");
 
@@ -10,18 +10,18 @@ class Solution {
             if (token.equals("") || token.equals(".")) continue;
 
             if (!token.equals("..")) {
-                st.push(token);
+                st.add(token);
             } else if (!st.isEmpty()) {
-                st.pop();
+                st.remove(st.size() - 1);
             }
         }
 
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
-        while (!st.isEmpty()) {
-            result = "/" + st.pop() + result;
+        for (String dir : st) {
+            result.append("/").append(dir);
         }
 
-        return result.isEmpty() ? "/" : result;
+        return result.length() == 0 ? "/" : result.toString();
     }
 }
