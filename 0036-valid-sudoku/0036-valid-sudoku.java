@@ -1,63 +1,28 @@
 class Solution {
-    //bf
-    //https://www.youtube.com/watch?v=dGZjzA9zLW8
-
-    public boolean isValid(char[][] board, int sr, int er, int sc, int ec) {
-        Set<Character> set = new HashSet<>();
-        for (int i = sr; i <= er; i++) {
-
-            for (int j = sc; j <= ec; j++) {
-                if (board[i][j] == '.')
-                    continue;
-                if (set.contains(board[i][j]))
-                    return false;
-                set.add(board[i][j]);
-
-            }
-        }
-        return true;
-    }
-
     public boolean isValidSudoku(char[][] board) {
+        //https://www.youtube.com/watch?v=dGZjzA9zLW8 
+        //optimized
+        Set<String> set = new HashSet<>();
 
-        //validate row
         for (int i = 0; i < 9; i++) {
-            Set<Character> set = new HashSet<>();
             for (int j = 0; j < 9; j++) {
                 if (board[i][j] == '.')
                     continue;
-                if (set.contains(board[i][j]))
-                    return false;
-                set.add((board[i][j]));
 
-            }
-        }
-        //validate col
-        for (int i = 0; i < 9; i++) {
-            Set<Character> set = new HashSet<>();
-            for (int j = 0; j < 9; j++) {
-                if (board[j][i] == '.')
-                    continue;
-                if (set.contains(board[j][i]))
-                    return false;
-                set.add((board[j][i]));
+                String row = board[i][j] + "_row_" + i;
+                String col = board[i][j] + "_col_" + j;
+                String box = board[i][j] + "_box_" + (i / 3) + "_" + (j / 3);
 
-            }
-        }
-
-        //validate 3*3
-        //validate row
-        for (int sr = 0; sr < 9; sr += 3) {
-            int er = sr + 2;
-            for (int sc = 0; sc < 9; sc += 3) {
-                int ec = sc + 2;
-                if (!isValid(board, sr, er, sc, ec)) {
+                if (set.contains(row) || set.contains(col) || set.contains(box)) {
                     return false;
                 }
 
+                set.add(row);
+                set.add(col);
+                set.add(box);
             }
-
         }
+
         return true;
     }
 }
