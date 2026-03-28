@@ -205,11 +205,11 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pramilaOM/LeetcodePramila/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2529-range-product-queries-of-powers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [2636-maximum-subsequence-score](https://github.com/pramilaOM/LeetcodePramila/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/pramilaOM/LeetcodePramila/tree/master/2689-rearranging-fruits) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
 | [2714-left-and-right-sum-differences](https://github.com/pramilaOM/LeetcodePramila/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
@@ -806,8 +806,8 @@
 | [2429-design-a-food-rating-system](https://github.com/pramilaOM/LeetcodePramila/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/pramilaOM/LeetcodePramila/tree/master/2576-minimum-penalty-for-a-shop) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -913,7 +913,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/pramilaOM/LeetcodePramila/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pramilaOM/LeetcodePramila/tree/master/2408-number-of-people-aware-of-a-secret) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -970,12 +970,12 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pramilaOM/LeetcodePramila/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [2636-maximum-subsequence-score](https://github.com/pramilaOM/LeetcodePramila/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/pramilaOM/LeetcodePramila/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/pramilaOM/LeetcodePramila/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pramilaOM/LeetcodePramila/tree/master/2704-maximum-difference-by-remapping-a-digit) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1142,7 +1142,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pramilaOM/LeetcodePramila/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/pramilaOM/LeetcodePramila/tree/master/2089-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/pramilaOM/LeetcodePramila/tree/master/2428-equal-row-and-column-pairs) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/pramilaOM/LeetcodePramila/tree/master/2906-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pramilaOM/LeetcodePramila/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pramilaOM/LeetcodePramila/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1696,7 +1696,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/pramilaOM/LeetcodePramila/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramilaOM/LeetcodePramila/tree/master/0200-number-of-islands) |
-| [2708-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2708-find-the-string-with-lcp) |
+| [2573-find-the-string-with-lcp](https://github.com/pramilaOM/LeetcodePramila/tree/master/2573-find-the-string-with-lcp) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pramilaOM/LeetcodePramila/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
