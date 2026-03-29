@@ -14,20 +14,20 @@ class Solution {
         ListNode result = dummy;
 
         while (list1 != null && list2 != null) {
-            if(list1.val < list2.val){
+            if (list1.val < list2.val) {
                 dummy.next = list1;
                 list1 = list1.next;
-            }else{
+            } else {
                 dummy.next = list2;
-                list2= list2.next;
+                list2 = list2.next;
             }
             dummy = dummy.next;
 
         }
 
-        if(list1 != null){
+        if (list1 != null) {
             dummy.next = list1;
-        }else{
+        } else {
             dummy.next = list2;
         }
         return result.next;
