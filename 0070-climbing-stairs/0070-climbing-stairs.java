@@ -1,26 +1,21 @@
 class Solution {
-    int[] t = new int[46];
-
-    int solve(int n) {
-        if (n == 0) {
-            return 1;
-        }
-        if (n < 0) {
-            return 0;
-        }
-
-        if (t[n] != -1) {
-            return t[n];
-        }
-
-        int oneStep = solve(n - 1);
-        int twoStep = solve(n - 2);
-
-        return t[n] = oneStep + twoStep;
-    }
-
     public int climbStairs(int n) {
-        Arrays.fill(t, -1);
-        return solve(n);
+        if (n == 1 || n == 2 || n == 3) {
+            return n;
+        }
+
+        int a = 1;
+        int b = 2;
+        int c = 3;
+
+        for (int i = 3; i <= n; i++) {
+            c = a + b;
+            int temp = b;
+            b = c;
+            a = temp;
+        }
+
+        return c;
+
     }
 }
