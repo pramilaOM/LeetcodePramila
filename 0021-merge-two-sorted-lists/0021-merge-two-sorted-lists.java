@@ -13,27 +13,24 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode ans = dummy;
 
-        ListNode ptr1 = list1;
-        ListNode ptr2 = list2;
-
         //won't work if while (ptr1 != null || ptr2 != null) {
-        while (ptr1 != null && ptr2 != null) {
+        while (list1 != null && list2 != null) {
 
-            if (ptr1.val < ptr2.val) {
-                dummy.next = ptr1;
-                ptr1 = ptr1.next;
+            if (list1.val < list2.val) {
+                dummy.next = list1;
+                list1 = list1.next;
             } else {
-                dummy.next = ptr2;
-                ptr2 = ptr2.next;
+                dummy.next = list2;
+                list2 = list2.next;
             }
             dummy = dummy.next;
 
         }
 
-        if (ptr1 == null) {
-            dummy.next = ptr2;
+        if (list1 == null) {
+            dummy.next = list2;
         } else {
-            dummy.next = ptr1;
+            dummy.next = list1;
         }
 
         return ans.next;
