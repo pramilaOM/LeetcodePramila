@@ -13,7 +13,7 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode ans = dummy;
 
-        //won't work if while (ptr1 != null || ptr2 != null) {
+        //won't work if while (list1 != null || list1 != null) {
         while (list1 != null && list2 != null) {
 
             if (list1.val < list2.val) {
