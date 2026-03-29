@@ -810,6 +810,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/pramilaOM/LeetcodePramila/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
