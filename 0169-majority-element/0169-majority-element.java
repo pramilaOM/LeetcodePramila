@@ -1,20 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
-         Arrays.sort(nums);
-
-        HashMap<Integer, Integer> freq = new HashMap<>();
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-        }
-
-        int count = nums.length / 2;
-        int element = 0;
-        for (int num : freq.keySet()) {
-            if (freq.get(num) > count) {
-                element = num;
+        int majority = nums[0];
+        int count = 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (count == 0) {
+                majority = nums[i];
+                count = 1;
+            } else if (nums[i] == majority) {
+                count++;
+            } else {
+                count--;
             }
+
         }
-        return element;
-        
+
+        return majority;
+
     }
-}  
+}
