@@ -1,32 +1,21 @@
 class Solution {
-    int[][] t = new int[2501][2501];
-
-    int solve(int[] nums, int i, int prev) {
-        if (i >= nums.length) {
-            return 0;
-        }
-
-        if (prev != -1 && t[i][prev] != -1) {
-            return t[i][prev];
-        }
-        int take = 0;
-
-        if (prev == -1 || nums[i] > nums[prev]) {
-            take = 1 + solve(nums, i + 1, i);
-        }
-        int skip = solve(nums, i + 1, prev);
-        if (prev != -1) {
-            t[i][prev] = Math.max(take, skip);
-        }
-        return Math.max(take, skip);
-    }
-
     public int lengthOfLIS(int[] nums) {
-        for (int arr[] : t) {
-            Arrays.fill(arr, -1);
 
+        int n = nums.length;
+        int[] t = new int[n];
+        Arrays.fill(t,1);
+
+        int max = 1;
+
+        for(int i =1;i<n;i++){
+            for(int j = 0;j<i;j++){
+                if(nums[j] < nums[i]){
+                    t[i] = Math.max(t[i],t[j]+1);
+                    max = Math.max(max,t[i]);
+                }
+            }
         }
-        return solve(nums, 0, -1);
-
+        return max;
+        
     }
 }
