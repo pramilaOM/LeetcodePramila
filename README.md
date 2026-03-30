@@ -360,6 +360,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/pramilaOM/LeetcodePramila/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pramilaOM/LeetcodePramila/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pramilaOM/LeetcodePramila/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -541,6 +542,7 @@
 | [2845-find-the-value-of-the-partition](https://github.com/pramilaOM/LeetcodePramila/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pramilaOM/LeetcodePramila/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pramilaOM/LeetcodePramila/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramilaOM/LeetcodePramila/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pramilaOM/LeetcodePramila/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -810,6 +812,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/pramilaOM/LeetcodePramila/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2755-extra-characters-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/pramilaOM/LeetcodePramila/tree/master/2887-sort-vowels-in-a-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pramilaOM/LeetcodePramila/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pramilaOM/LeetcodePramila/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pramilaOM/LeetcodePramila/tree/master/3235-minimum-cost-to-convert-string-i) |
