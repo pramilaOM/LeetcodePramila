@@ -15,24 +15,25 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
+        //Level Order Traversal BFS  
+        //https://www.youtube.com/watch?v=-Qs1T_xfzLo&list=PLpIkg8OmuX-K23LhcamOcDlTBisiNJy5E&index=1
+
+        if (root == null)
+            return new ArrayList<>();
 
         List<Integer> result = new ArrayList<>();
-        if (root == null)
-            return result;
-
         Queue<TreeNode> queue = new LinkedList<>();
+
         queue.offer(root);
-
         while (!queue.isEmpty()) {
-            int levelSize = queue.size();
+            int n = queue.size();
             TreeNode rightNode = null;
-
-            for (int i = 0; i < levelSize; i++) {
+            while (n-- > 0) {
                 rightNode = queue.poll();
-
                 if (rightNode.left != null) {
                     queue.offer(rightNode.left);
                 }
+
                 if (rightNode.right != null) {
                     queue.offer(rightNode.right);
                 }
