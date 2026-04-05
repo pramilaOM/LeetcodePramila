@@ -14,30 +14,19 @@
  * }
  */
 class Solution {
+    //https://www.youtube.com/watch?v=uCvur520ejA&t=112s
     public int maxDepth(TreeNode root) {
-
         if (root == null) {
             return 0;
         }
 
-        Queue<TreeNode> nodes = new LinkedList<>();
-
-        nodes.add(root);
-        int leveles = 0;
-
-        while (!nodes.isEmpty()) {
-            leveles++;
-            int size = nodes.size();
-            for (int i = 0; i < size; i++) {
-                TreeNode poppedNode = nodes.poll();
-                if (poppedNode.left != null)
-                    nodes.add(poppedNode.left);
-
-                if (poppedNode.right != null)
-                    nodes.add(poppedNode.right);
-            }
+        if (root.left == null && root.right == null) {
+            return 1;
         }
 
-        return leveles;
+        int left = (root.left != null) ? maxDepth(root.left) : Integer.MIN_VALUE;
+        int right = (root.right != null) ? maxDepth(root.right) : Integer.MIN_VALUE;
+
+        return 1 + Math.max(left, right);
     }
 }
