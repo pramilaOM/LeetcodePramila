@@ -15,23 +15,22 @@
  */
 class Solution {
     boolean check(TreeNode l, TreeNode r) {
-        if (l == null && r == null)
+        if (l == null && r == null) {
             return true;
-
-        if (l == null || r == null)
+        }
+        if (l == null || r == null) {
             return false;
+        }
 
-        if (l.val == r.val && check(l.left, r.right) && check(l.right, r.left))
+        if (l.val == r.val && check(l.left, r.right) && check(l.right, r.left)) {
             return true;
-
+        }
         return false;
 
     }
 
     public boolean isSymmetric(TreeNode root) {
-
-        if (root == null)
-            return true;
+        //https://www.youtube.com/watch?v=lHLW1L8Qc5w
 
         return check(root.left, root.right);
 
