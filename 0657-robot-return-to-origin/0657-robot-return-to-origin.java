@@ -1,17 +1,20 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        int x = 0, y = 0;
-        for (char s : moves.toCharArray()) {
-            if (s == 'U')
-                y++;
-            else if (s == 'D')
-                y--;
-            else if (s == 'R')
-                x++;
-            else
-                x--;
-        }
-        return x == 0 && y == 0;
+        //Alternate approach - Find count of U,D,L and R then check if they are equal
+        int up = 0, down = 0, left = 0, right = 0;
 
+        for (char move : moves.toCharArray()) {
+            if (move == 'U') {
+                up++;
+            } else if (move == 'D') {
+                down++;
+            } else if (move == 'L') {
+                left++;
+            } else if (move == 'R') {
+                right++;
+            }
+        }
+
+        return up == down && left == right;
     }
 }
