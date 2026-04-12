@@ -3,16 +3,15 @@ class Solution {
         Arrays.sort(strs);
         String first = strs[0];
         String last = strs[strs.length - 1];
-        int index = 0;
-        while (index < first.length()) {
-            if (first.charAt(index) == last.charAt(index)) {
-                index++;
+        int i = 0;
+        while (i < first.length()) {
+            if (first.charAt(i) == last.charAt(i)) {
+                i++;
             } else {
                 break;
             }
 
         }
-        return index == 0 ? "" : first.substring(0, index);
-
+        return i == 0 ? "" : first.substring(0, i);
     }
 }
