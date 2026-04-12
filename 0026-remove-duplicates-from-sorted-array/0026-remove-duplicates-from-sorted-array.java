@@ -1,19 +1,16 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
 
-        Set<Integer> set = new TreeSet<>();
-        for (int num : nums) {
-            set.add(num);
-        }
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int i =0;
+        for(int j =0;j<nums.length;j++){
+            if(!map.containsKey(nums[j])){
+                map.put(nums[j],1);
+                nums[i] = nums[j];
+                i++;
 
-        int index = 0;
-        for (Integer num : set) {
-            nums[index] = num;
-            index++;
+            }
         }
-
-        
-        return set.size();
-        
+        return i;
     }
 }
