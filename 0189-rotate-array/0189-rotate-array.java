@@ -1,29 +1,21 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        // Time Complexity:
-        // O(n) — you visit each element once
 
-        // \U0001f9e0 Space Complexity:
-        // O(1) — no extra array used for rotation
-
-        int len = nums.length;
-        if (k > len) {
-            k = k % len;
+        int[] newNums = new int[nums.length];
+        int n = nums.length;
+        int idx = 0;
+        k = k % n;
+        for (int i = n - k; i < n; i++) {
+            newNums[idx++] = nums[i];
         }
-        reverse(nums, 0, len - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, len - 1);
 
-    }
-
-    private static void reverse(int[] nums, int start, int end) {
-        // TODO Auto-generated method stub
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+        for (int i = 0; i < n - k; i++) {
+            newNums[idx++] = nums[i];
         }
+
+        for (int i = 0; i < n; i++) {
+            nums[i] = newNums[i];
+        }
+
     }
 }
