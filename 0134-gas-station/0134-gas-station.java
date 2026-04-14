@@ -1,8 +1,8 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-
         int totalKamai = 0;
         int totalKharcha = 0;
+
         for (int a : gas) {
             totalKamai += a;
         }
@@ -11,8 +11,9 @@ class Solution {
             totalKharcha += b;
         }
 
-        if (totalKamai < totalKharcha)
+        if (totalKamai < totalKharcha) {
             return -1;
+        }
 
         int total = 0;
         int index = 0;
@@ -22,8 +23,8 @@ class Solution {
                 total = 0;
                 index = i + 1;
             }
-
         }
         return index;
+
     }
 }
