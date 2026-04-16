@@ -1,20 +1,21 @@
 class Solution {
     public boolean isHappy(int n) {
-        //https://www.youtube.com/watch?v=LkD0D0Xy-ro
-         Set<Integer> usedIntegers = new HashSet<>();
-    while (true) {
-      int sum = 0;
-      while (n != 0) {
-        sum += Math.pow(n % 10, 2.0);
-        n = n / 10;
-      }
 
-      if (sum == 1) return true;
-
-      n = sum;
-      if (usedIntegers.contains(n))
-        return false;
-      usedIntegers.add(n);
-    }
+        HashSet set = new HashSet<>();
+        while (n != 1) {
+            if (set.contains(n)) {
+                return false;
+            }
+            set.add(n);
+            int sum = 0;
+            int temp = n;
+            while (temp > 0) {
+                int digit = temp % 10;
+                sum += digit * digit;
+                temp = temp / 10;
+            }
+            n = sum;
+        }
+        return true;
     }
 }
