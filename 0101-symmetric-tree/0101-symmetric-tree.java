@@ -15,17 +15,27 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return isMirror(root.left, root.right);
-    }
+        if (root == null) return true;
 
-    boolean isMirror(TreeNode t1, TreeNode t2) {
-        if (t1 == null && t2 == null)
-            return true;
-        if (t1 == null || t2 == null)
-            return false;
-        if (t1.val != t2.val)
-            return false;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root.left);
+        queue.offer(root.right);
 
-        return isMirror(t1.left, t2.right) && isMirror(t1.right, t2.left);
+        while (!queue.isEmpty()) {
+            TreeNode n1 = queue.poll();
+            TreeNode n2 = queue.poll();
+
+            if (n1 == null && n2 == null) continue;
+            if (n1 == null || n2 == null) return false;
+            if (n1.val != n2.val) return false;
+
+            // Mirror comparison
+            queue.offer(n1.left);
+            queue.offer(n2.right);
+            queue.offer(n1.right);
+            queue.offer(n2.left);
+        }
+
+        return true;
     }
 }
