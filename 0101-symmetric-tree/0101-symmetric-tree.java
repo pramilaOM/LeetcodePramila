@@ -14,25 +14,18 @@
  * }
  */
 class Solution {
-    boolean check(TreeNode l, TreeNode r) {
-        if (l == null && r == null) {
-            return true;
-        }
-        if (l == null || r == null) {
-            return false;
-        }
-
-        if (l.val == r.val && check(l.left, r.right) && check(l.right, r.left)) {
-            return true;
-        }
-        return false;
-
+    public boolean isSymmetric(TreeNode root) {
+        return isMirror(root.left, root.right);
     }
 
-    public boolean isSymmetric(TreeNode root) {
-        //https://www.youtube.com/watch?v=lHLW1L8Qc5w
+    boolean isMirror(TreeNode t1, TreeNode t2) {
+        if (t1 == null && t2 == null)
+            return true;
+        if (t1 == null || t2 == null)
+            return false;
+        if (t1.val != t2.val)
+            return false;
 
-        return check(root.left, root.right);
-
+        return isMirror(t1.left, t2.right) && isMirror(t1.right, t2.left);
     }
 }
