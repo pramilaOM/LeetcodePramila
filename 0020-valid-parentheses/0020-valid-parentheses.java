@@ -1,5 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
+        //bf
         int prevLen;
         do {
             prevLen = s.length();
