@@ -16,19 +16,23 @@
 class Solution {
     int minDiff = Integer.MAX_VALUE;
     TreeNode prev = null;
-    void inOrder(TreeNode root) {
-        if (root == null)
-            return;
-        inOrder(root.left);
-        if (prev != null)
-            minDiff = Math.min(minDiff, root.val - prev.val);
-
-        prev = root;
-        inOrder(root.right);
-    }
 
     public int getMinimumDifference(TreeNode root) {
-        inOrder(root);
+        inorder(root);
         return minDiff;
+    }
+
+    private void inorder(TreeNode node) {
+        if (node == null) return;
+
+        inorder(node.left);
+
+        // Process current node
+        if (prev != null) {
+            minDiff = Math.min(minDiff, node.val - prev.val);
+        }
+        prev = node;
+
+        inorder(node.right);
     }
 }
