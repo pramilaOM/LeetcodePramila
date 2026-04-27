@@ -1,12 +1,24 @@
 class Solution {
     public int mySqrt(int x) {
-         if (x == 0) return 0;
+        if (x < 2)
+            return x;
 
-        int i = 1;
-        while ((long) i * i <= x) {  // use long to avoid overflow
-            i++;
+        int left = 1, right = x / 2;
+        int ans = 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if ((long) mid * mid == x) {
+                return mid;
+            } else if ((long) mid * mid < x) {
+                ans = mid; // store potential answer
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
 
-        return i - 1;
+        return ans;
     }
 }
