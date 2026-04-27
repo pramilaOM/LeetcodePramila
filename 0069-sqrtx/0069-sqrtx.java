@@ -1,22 +1,12 @@
-//https://www.youtube.com/watch?v=OxUFaTwKp7E 
 class Solution {
     public int mySqrt(int x) {
-        int l = 1;
-        int r = x;
-        if(x < 2){
-            return x;
+         if (x == 0) return 0;
+
+        int i = 1;
+        while ((long) i * i <= x) {  // use long to avoid overflow
+            i++;
         }
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            int temp = x / mid;
-            if (temp == mid) {
-                return mid;
-            } else if (temp < mid) {
-                r = mid;
-            } else {
-                l = mid + 1;
-            }
-        }
-        return l - 1;
+
+        return i - 1;
     }
 }
