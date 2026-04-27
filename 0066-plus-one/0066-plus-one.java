@@ -1,22 +1,24 @@
+import java.math.BigInteger;
+
 class Solution {
     public int[] plusOne(int[] digits) {
-        int n = digits.length;
-
-        if (digits[n - 1] != 9) {
-            digits[n - 1] = digits[n - 1] + 1;
-            return digits;
+        StringBuilder sb = new StringBuilder();
+        for (int d : digits) {
+            sb.append(d);
         }
 
-        digits[n - 1] = 0;
-        for (int i = n - 2; i >= 0; i--) {
-            if (digits[i] != 9) {
-                digits[i] = digits[i] + 1;
-                return digits;
-            }
-            digits[i] = 0;
+        // Convert to BigInteger and add 1
+        BigInteger num = new BigInteger(sb.toString());
+        num = num.add(BigInteger.ONE);
+
+        // Convert back to array
+        String result = num.toString();
+        int[] ans = new int[result.length()];
+
+        for (int i = 0; i < result.length(); i++) {
+            ans[i] = result.charAt(i) - '0';
         }
-        int[] ans = new int[n+1];
-        ans[0] = 1;
+
         return ans;
     }
 }
